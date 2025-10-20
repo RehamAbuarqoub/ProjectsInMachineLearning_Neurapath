@@ -163,8 +163,8 @@ MIT (or course default).
 
 ---
 
-## 👥 Team & Roles
-- Mandeep Singh Brar — ML Product Manager (backlog, targets, ADO hygiene, demos)  
-- <Teammate 2> — ML Engineer (models, experiments, metrics, MLOps handoff)  
-- <Teammate 3> — Data Engineer (ETL, feature store, data quality)  
-- <Teammate 4> — App/Frontend (API/UI integration, UX tests)
+## 👥 Team Members
+- Mandeep Singh Brar 
+- Eris  
+- Reham  
+- Tracy
