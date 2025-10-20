@@ -15,7 +15,7 @@ _AI-powered mock interview coach with resume parsing, career pathing, and person
 - Integrate Azure DevOps Boards with GitHub so PRs/commits link to work items (`AB#<id>`).
 
 **Key Links (fill before submission)**
-- **Azure DevOps Boards:** <ADD_DEVOPS_BOARDS_URL>  
+- **Azure DevOps Boards:** https://dev.azure.com/Rabuarqoub2922/INFO8665-NeuraPath 
 - **GitHub Repository:** https://github.com/RehamAbuarqoub/ProjectsInMachineLearning_Neurapath  
 
 ---
@@ -152,7 +152,7 @@ curl -X POST "http://localhost:8000/score/mock" -H "Content-Type: application/js
 - **UAT definition:** each Feature includes a **Story named “Internal Review”** and on that story a **Task named “User Acceptance Testing” (UAT)**.
 
 **URLs to include in submission**
-- Boards (Task Board & Backlog): <ADD_DEVOPS_BOARDS_URL>  
+- Boards (Task Board & Backlog): https://dev.azure.com/Rabuarqoub2922/INFO8665-NeuraPath 
 
 ---
 
