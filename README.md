@@ -15,9 +15,8 @@ _AI-powered mock interview coach with resume parsing, career pathing, and person
 - Integrate Azure DevOps Boards with GitHub so PRs/commits link to work items (`AB#<id>`).
 
 **Key Links (fill before submission)**
-- **Azure DevOps Boards:** <ADD_DEVOPS_BOARDS_URL>  
-- **GitHub Repository:** <ADD_GITHUB_REPO_URL>  
-- **Instructor-Approved PR:** <ADD_PR_URL> (include `AB#<id>` in title/desc)  
+- **Azure DevOps Boards:** https://dev.azure.com/Rabuarqoub2922/INFO8665-NeuraPath 
+- **GitHub Repository:** https://github.com/RehamAbuarqoub/ProjectsInMachineLearning_Neurapath  
 
 ---
 
@@ -102,53 +101,6 @@ py -m pip install -r requirements.txt
 
 ### 5) Configure Environment
 Create a `.env` file (used by API and notebooks):
-```
-# .env
-OPENAI_API_KEY=<if using LLMs>
-MODEL_DIR=./results/checkpoints
-DATA_DIR=./data
-```
-
----
-
-## 🚀 Usage Examples
-
-### A) Quick EDA (Notebook)
-Open `notebooks/01_eda.ipynb` and run all cells.  
-VS Code tip: select the `neurapath` environment as the interpreter.
-
-### B) Train a Baseline
-```bash
-python -m src.training.train \
-  --use_case "mock_interview_scoring" \
-  --model "xgboost" \
-  --data_path "./data/processed/mock_interview.csv" \
-  --val_split 0.2 \
-  --seed 42 \
-  --output_dir "./results/baselines"
-```
-**Outputs:** metrics JSON, model artifact, plots under `./results/baselines`.
-
-### C) Evaluate on Holdout
-```bash
-python -m src.training.evaluate \
-  --artifact "./results/baselines/model.bin" \
-  --test_path "./data/processed/mock_interview_test.csv" \
-  --report_path "./results/baselines/test_report.json"
-```
-
-### D) Run the API (FastAPI)
-```bash
-uvicorn src.api.app:app --reload --port 8000
-```
-Open `http://localhost:8000/docs` for interactive endpoints.  
-**Example request:**
-```bash
-curl -X POST "http://localhost:8000/score/mock" -H "Content-Type: application/json" -d '{
-  "transcript": "Tell me about yourself...",
-  "rubric_version": "v1.1"
-}'
-```
 
 ---
 
@@ -159,9 +111,7 @@ curl -X POST "http://localhost:8000/score/mock" -H "Content-Type: application/js
 - **UAT definition:** each Feature includes a **Story named “Internal Review”** and on that story a **Task named “User Acceptance Testing” (UAT)**.
 
 **URLs to include in submission**
-- Boards (Task Board & Backlog): <ADD_DEVOPS_BOARDS_URL>  
-- Example Work Item with PR link: <ADD_AB_ITEM_URL>  
-- PR with `AB#<id>` reference: <ADD_PR_URL>
+- Boards (Task Board & Backlog): https://dev.azure.com/Rabuarqoub2922/INFO8665-NeuraPath 
 
 ---
 
@@ -213,8 +163,8 @@ MIT (or course default).
 
 ---
 
-## 👥 Team & Roles
-- Mandeep Singh Brar — ML Product Manager (backlog, targets, ADO hygiene, demos)  
-- <Teammate 2> — ML Engineer (models, experiments, metrics, MLOps handoff)  
-- <Teammate 3> — Data Engineer (ETL, feature store, data quality)  
-- <Teammate 4> — App/Frontend (API/UI integration, UX tests)
+## 👥 Team Members
+- Mandeep Singh Brar 
+- Eris  
+- Reham  
+- Tracy
