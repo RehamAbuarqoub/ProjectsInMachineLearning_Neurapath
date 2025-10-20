@@ -16,8 +16,7 @@ _AI-powered mock interview coach with resume parsing, career pathing, and person
 
 **Key Links (fill before submission)**
 - **Azure DevOps Boards:** <ADD_DEVOPS_BOARDS_URL>  
-- **GitHub Repository:** <ADD_GITHUB_REPO_URL>  
-- **Instructor-Approved PR:** <ADD_PR_URL> (include `AB#<id>` in title/desc)  
+- **GitHub Repository:** https://github.com/RehamAbuarqoub/ProjectsInMachineLearning_Neurapath  
 
 ---
 
@@ -102,12 +101,6 @@ py -m pip install -r requirements.txt
 
 ### 5) Configure Environment
 Create a `.env` file (used by API and notebooks):
-```
-# .env
-OPENAI_API_KEY=<if using LLMs>
-MODEL_DIR=./results/checkpoints
-DATA_DIR=./data
-```
 
 ---
 
@@ -160,8 +153,6 @@ curl -X POST "http://localhost:8000/score/mock" -H "Content-Type: application/js
 
 **URLs to include in submission**
 - Boards (Task Board & Backlog): <ADD_DEVOPS_BOARDS_URL>  
-- Example Work Item with PR link: <ADD_AB_ITEM_URL>  
-- PR with `AB#<id>` reference: <ADD_PR_URL>
 
 ---
 
