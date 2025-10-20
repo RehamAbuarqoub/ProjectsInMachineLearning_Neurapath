@@ -47,26 +47,15 @@ _AI-powered mock interview coach with resume parsing, career pathing, and person
 ## 🗂️ Repository Structure
 ```
 .
-├─ src/
-│  ├─ data/            # loaders, validators, sample catalogs
-│  ├─ features/        # preprocessing (encoders, tokenizers)
-│  ├─ models/          # model builders (classical/LLM/ranker)
-│  ├─ training/        # train/eval loops, metrics, checkpoints
-│  ├─ api/             # FastAPI app (scoring + endpoints)
-│  └─ utils/           # logging, config, seeds, helpers
-├─ notebooks/
-│  ├─ 01_eda.ipynb
-│  ├─ 02_train_baselines.ipynb
-│  └─ 03_eval_error_analysis.ipynb
-├─ data/               # local only (gitignored)
-│  ├─ raw/
-│  └─ processed/
-├─ results/            # figures, tables, reports, checkpoints
-├─ tests/              # unit tests
-├─ .github/workflows/  # CI (lint/tests) (optional)
+├─ datacollection
+├─ dev
+├─ static
+│  └─ images
+├─ templates
+├─ training             
 ├─ requirements.txt
-├─ README.md
-└─ LICENSE
+├─ orchestrator
+└─ README.md
 ```
 
 ---
