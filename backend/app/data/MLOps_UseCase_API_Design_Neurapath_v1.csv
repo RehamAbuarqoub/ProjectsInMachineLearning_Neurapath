@@ -1,0 +1,234 @@
+Use Case 1: Skill Gap Analysis (Resume Parsing & Feedback),,,,
+Service ,Service Name ,HTTP Method,Endpoint,Purpose / Description
+1.1,resume-upload,POST,https://srv/api/v1/resume/upload,Upload and validate user resume files
+,,Port,Protocol,Authentication
+,,5001,HTTPS,JWT Bearer Token
+,,Parameters,,
+,,Name,Description,
+,,user_id,Unique user identifier (UUID),
+,,file,"Resume file binary (PDF/DOCX, max 5MB)",
+,,file_format,"File format type (enum: pdf, docx)",
+,,target_role,Optional target job role for context,
+,,Responses,,
+,,Code,Description,
+,,2XX,Success,
+,,,Model,Example
+,,,"{
+  ""status"": ""success"",
+  ""resume_id"": ""string (UUID)"",
+  ""file_url"": ""string"",
+  ""upload_timestamp"": ""string (ISO 8601)"",
+  ""message"": ""Resume uploaded successfully""
+}","{
+  ""status"": ""success"",
+  ""resume_id"": ""f123-abcd-5678-efgh"",
+  ""file_url"": ""https://storage.neurapath.ai/resumes/user123/resume_2025.pdf"",
+  ""upload_timestamp"": ""2025-10-25T05:30:00Z"",
+  ""message"": ""Resume uploaded successfully""
+}"
+,,4XX,Client Error,
+,,,Model,Example
+,,,"{
+  ""status"": ""error"",
+  ""error_code"": ""string"",
+  ""message"": ""string""
+}","{
+  ""status"": ""error"",
+  ""error_code"": ""INVALID_FORMAT"",
+  ""message"": ""File format not supported. Please upload PDF or DOCX.""
+}"
+,,,Error Codes,
+,,,"400: Invalid file format, file too large
+401: Authentication failed
+413: Payload too large
+500: Server error",
+,,Dependencies,"Storage Service (S3), Auth Service (JWT)",
+1.2,skill-extraction,HTTP Method,Endpoint,Purpose / Description
+,,POST,https://srv/api/v1/resume/extract-skills,Extract skills and experience using BERT-based Named Entity Recognition (NER)
+,,Port,Protocol,Authentication
+,,5002,HTTPS,"JWT Bearer Token, Internal Key"
+,,Parameters,,
+,,Name,Description,
+,,resume_id,Resume identifier from upload service (UUID),
+,,file_url,Storage URL of the resume file,
+,,extraction_mode,"Extraction detail level (enum: standard, detailed)",
+,,Responses,,
+,,Code,Description,
+,,2XX,Success,
+,,,Model,Example
+,,,"{
+  ""status"": ""success"",
+  ""resume_id"": ""string"",
+  ""extracted_skills"": {
+    ""technical_skills"": [""string""],
+    ""soft_skills"": [""string""],
+    ""tools"": [""string""],
+    ""certifications"": [""string""]
+  },
+  ""experience"": {
+    ""total_years"": ""number"",
+    ""roles"": [{
+      ""title"": ""string"",
+      ""duration_years"": ""number"",
+      ""company"": ""string""
+    }]
+  },
+  ""education"": [{
+    ""degree"": ""string"",
+    ""institution"": ""string"",
+    ""year"": ""number""
+  }],
+  ""confidence_score"": ""number (0-1)"",
+  ""processing_time_ms"": ""number""
+}","{
+  ""status"": ""success"",
+  ""resume_id"": ""f123-abcd-5678-efgh"",
+  ""extracted_skills"": {
+    ""technical_skills"": [""Python"", ""Machine Learning"", ""TensorFlow"", ""SQL""],
+    ""soft_skills"": [""Leadership"", ""Communication"", ""Problem Solving""],
+    ""tools"": [""Git"", ""Docker"", ""AWS""],
+    ""certifications"": [""AWS Certified Solutions Architect""]
+  },
+  ""experience"": {
+    ""total_years"": 5,
+    ""roles"": [{
+      ""title"": ""Data Scientist"",
+      ""duration_years"": 3,
+      ""company"": ""Tech Corp""
+    }]
+  },
+  ""education"": [{
+    ""degree"": ""M.Sc. Computer Science"",
+    ""institution"": ""University of Toronto"",
+    ""year"": 2020
+  }],
+  ""confidence_score"": 0.89,
+  ""processing_time_ms"": 1234
+}"
+,,4XX,Client/Processing Error,
+,,,Model,Example
+,,,"{
+  ""status"": ""error"",
+  ""error_code"": ""string"",
+  ""message"": ""string"",
+  ""details"": ""string (optional)""
+}","{
+  ""status"": ""error"",
+  ""error_code"": ""RESUME_NOT_FOUND"",
+  ""message"": ""Resume file not found for the given resume_id or file_url.""
+}"
+,,,Error Codes,
+,,,"400: Invalid resume_id or file_url
+404: Resume file not found
+500: NLP extraction failure",
+,,Dependencies,"NLP Model (BERT-based Named Entity Recognition (NER)), Resume Storage, NER Engine",
+1.3,skill-gap-analysis,HTTP Method,Endpoint,Purpose / Description
+,,POST,https://srv/api/v1/resume/skill-gap-analysis,Analyze skill gaps using SemanticSkillMatcher and provide actionable feedback
+,,Port,Protocol,Authentication
+,,5003,HTTPS,JWT Bearer Token
+,,Parameters,,
+,,Name,Description,
+,,user_id,Unique user identifier (UUID),
+,,user_skills,Array of user's current skills extracted from resume,
+,,target_role_skills,Array of required skills for target job role,
+,,target_role,"Target job role name (optional, for context)",
+,,Responses,,
+,,Code,Description,
+,,2XX,Success,
+,,,Model,Example
+,,,"{
+  ""status"": ""success"",
+  ""user_id"": ""string"",
+  ""matched_skills"": [""string""],
+  ""missing_skills"": [""string""],
+  ""skill_gaps"": [{
+    ""skill"": ""string"",
+    ""importance"": ""string (enum: critical/important/nice-to-have)"",
+    ""current_level"": ""string (enum: none/beginner/intermediate/advanced)"",
+    ""required_level"": ""string (enum: beginner/intermediate/advanced/expert)""
+  }],
+  ""overall_match_score"": ""number (0-100)"",
+  ""feedback"": {
+    ""strengths"": [""string""],
+    ""recommendations"": [""string""]
+  }
+}
+","{
+  ""status"": ""success"",
+  ""user_id"": ""user123"",
+  ""matched_skills"": [
+    ""Python"",
+    ""Machine Learning"",
+    ""SQL"",
+    ""Git""
+  ],
+  ""missing_skills"": [
+    ""Deep Learning"",
+    ""Kubernetes"",
+    ""MLOps"",
+    ""Docker""
+  ],
+  ""skill_gaps"": [
+    {
+      ""skill"": ""Deep Learning"",
+      ""importance"": ""critical"",
+      ""current_level"": ""none"",
+      ""required_level"": ""intermediate""
+    },
+    {
+      ""skill"": ""Kubernetes"",
+      ""importance"": ""important"",
+      ""current_level"": ""none"",
+      ""required_level"": ""beginner""
+    },
+    {
+      ""skill"": ""MLOps"",
+      ""importance"": ""critical"",
+      ""current_level"": ""none"",
+      ""required_level"": ""intermediate""
+    },
+    {
+      ""skill"": ""Docker"",
+      ""importance"": ""important"",
+      ""current_level"": ""beginner"",
+      ""required_level"": ""intermediate""
+    }
+  ],
+  ""overall_match_score"": 57,
+  ""feedback"": {
+    ""strengths"": [
+      ""Strong Python programming foundation"",
+      ""Good understanding of Machine Learning fundamentals"",
+      ""Proficient with version control (Git)""
+    ],
+    ""recommendations"": [
+      ""Priority: Learn Deep Learning frameworks (PyTorch or TensorFlow)"",
+      ""Complete an MLOps certification course"",
+      ""Gain hands-on experience with Docker containerization"",
+      ""Start with basic Kubernetes tutorials for container orchestration""
+    ]
+  }
+}
+
+  ""status"": ""success"",
+  ""resume_id"": ""f123-abcd-5678-efgh"",
+  ""file_url"": ""https://storage.neurapath.ai/resumes/user123/resume_2025.pdf"",
+  ""upload_timestamp"": ""2025-10-25T05:30:00Z"",
+  ""message"": ""Resume uploaded successfully""
+}"
+,,4XX,Client Error,
+,,,Model,Example
+,,,"{
+  ""status"": ""error"",
+  ""error_code"": ""string"",
+  ""message"": ""string""
+}","{
+  ""status"": ""error"",
+  ""error_code"": ""INVALID_INPUT"",
+  ""message"": ""user_skills array cannot be empty""
+}"
+,,,Error Codes,
+,,,"400: Invalid input data (empty skills array, invalid user_id)
+404: User profile or target role not found
+500: SemanticSkillMatcher processing failure",
+,,Dependencies,"Skill Extractor, Rubric Engine, Role Ontology DB",
