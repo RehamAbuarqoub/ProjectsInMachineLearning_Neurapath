@@ -1,0 +1,8 @@
+2025-11-16 13:20:19,633 - app.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-16 13:20:29,319 - app.resumes - INFO - Received resume upload: file=resume_7.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=0de91c9c
+2025-11-16 13:20:29,811 - app.resumes - INFO - Parsed resume: rid=0de91c9c, chars=5099
+2025-11-16 13:20:32,197 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-16 13:20:44,046 - app.resumes - INFO - Analysis complete: rid=0de91c9c, alias_hits=77, ner_added=0, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=31.5
+2025-11-16 13:23:03,435 - app.resumes - INFO - Received resume upload: file=resume_7.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=5ad7dbad
+2025-11-16 13:23:03,830 - app.resumes - INFO - Parsed resume: rid=5ad7dbad, chars=5099
+2025-11-16 13:23:06,312 - app.resumes - INFO - Analysis complete: rid=5ad7dbad, alias_hits=77, ner_added=0, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=31.5
