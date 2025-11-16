@@ -1,0 +1,20 @@
+# node
+frontend/node_modules
+frontend/dist
+
+# python
+backend/.venv
+__pycache__/
+*.pyc
+*.pyo
+
+# logs & artifacts
+backend/app/logs
+*.log
+
+# vcs/ide
+.git
+.gitignore
+.gitattributes
+.vscode
+.DS_Store

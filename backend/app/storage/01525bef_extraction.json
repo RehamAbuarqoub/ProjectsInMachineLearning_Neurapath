@@ -1,0 +1,1060 @@
+{
+  "resume_id": "01525bef",
+  "extract_id": "65d7f5df",
+  "selected_role": {
+    "role_id": "SENIOR_DATA_ENGINEER",
+    "title": "Senior Data Engineer",
+    "score": 33.7,
+    "suitability": "Low",
+    "required_coverage": 0.333,
+    "nice_coverage": 0.083
+  },
+  "other_recommendations": [
+    {
+      "role_id": "SENIOR_DATA_SCIENTIST",
+      "title": "Senior Data Scientist",
+      "score": 59.5,
+      "suitability": "Fair",
+      "required_coverage": 0.667,
+      "nice_coverage": 0.167
+    },
+    {
+      "role_id": "DATA_SCIENTIST",
+      "title": "Data Scientist",
+      "score": 56.2,
+      "suitability": "Fair",
+      "required_coverage": 0.583,
+      "nice_coverage": 0.25
+    },
+    {
+      "role_id": "SENIOR_DATA_ANALYST",
+      "title": "Senior Data Analyst",
+      "score": 45.3,
+      "suitability": "Fair",
+      "required_coverage": 0.5,
+      "nice_coverage": 0.083
+    },
+    {
+      "role_id": "DATA_ANALYST",
+      "title": "Data Analyst",
+      "score": 42.0,
+      "suitability": "Fair",
+      "required_coverage": 0.417,
+      "nice_coverage": 0.167
+    },
+    {
+      "role_id": "DATA_ENGINEER",
+      "title": "Data Engineer",
+      "score": 36.2,
+      "suitability": "Low",
+      "required_coverage": 0.333,
+      "nice_coverage": 0.167
+    }
+  ],
+  "no_good_match": true,
+  "skills": [
+    {
+      "skill": "a",
+      "score": 3.75,
+      "evidence_offsets": [
+        [
+          89,
+          90
+        ],
+        [
+          290,
+          291
+        ],
+        [
+          1419,
+          1420
+        ],
+        [
+          1615,
+          1616
+        ],
+        [
+          2274,
+          2275
+        ],
+        [
+          2376,
+          2377
+        ],
+        [
+          2421,
+          2422
+        ],
+        [
+          2603,
+          2604
+        ],
+        [
+          3109,
+          3110
+        ],
+        [
+          3321,
+          3322
+        ],
+        [
+          4492,
+          4493
+        ],
+        [
+          4796,
+          4797
+        ],
+        [
+          5063,
+          5064
+        ]
+      ],
+      "aliases_matched": [
+        "a"
+      ]
+    },
+    {
+      "skill": "analysis",
+      "score": 2.25,
+      "evidence_offsets": [
+        [
+          119,
+          127
+        ],
+        [
+          641,
+          649
+        ],
+        [
+          998,
+          1006
+        ],
+        [
+          1057,
+          1065
+        ],
+        [
+          1672,
+          1680
+        ],
+        [
+          3628,
+          3636
+        ],
+        [
+          3749,
+          3757
+        ]
+      ],
+      "aliases_matched": [
+        "analysis"
+      ]
+    },
+    {
+      "skill": "machine learning",
+      "score": 2.0,
+      "evidence_offsets": [
+        [
+          132,
+          148
+        ],
+        [
+          677,
+          693
+        ],
+        [
+          2521,
+          2537
+        ],
+        [
+          2620,
+          2636
+        ],
+        [
+          2733,
+          2749
+        ],
+        [
+          3763,
+          3779
+        ]
+      ],
+      "aliases_matched": [
+        "machine learning"
+      ]
+    },
+    {
+      "skill": "development",
+      "score": 1.75,
+      "evidence_offsets": [
+        [
+          3038,
+          3049
+        ],
+        [
+          3137,
+          3148
+        ],
+        [
+          3189,
+          3200
+        ],
+        [
+          3280,
+          3291
+        ],
+        [
+          3504,
+          3515
+        ]
+      ],
+      "aliases_matched": [
+        "development"
+      ]
+    },
+    {
+      "skill": "python",
+      "score": 1.5,
+      "evidence_offsets": [
+        [
+          625,
+          631
+        ],
+        [
+          2865,
+          2871
+        ],
+        [
+          3298,
+          3304
+        ],
+        [
+          4221,
+          4227
+        ]
+      ],
+      "aliases_matched": [
+        "python"
+      ]
+    },
+    {
+      "skill": "management",
+      "score": 1.5,
+      "evidence_offsets": [
+        [
+          972,
+          982
+        ],
+        [
+          1107,
+          1117
+        ],
+        [
+          4549,
+          4559
+        ],
+        [
+          4983,
+          4993
+        ]
+      ],
+      "aliases_matched": [
+        "management"
+      ]
+    },
+    {
+      "skill": "data science",
+      "score": 1.25,
+      "evidence_offsets": [
+        [
+          346,
+          358
+        ],
+        [
+          3419,
+          3431
+        ],
+        [
+          4202,
+          4214
+        ]
+      ],
+      "aliases_matched": [
+        "data science"
+      ]
+    },
+    {
+      "skill": "data extraction",
+      "score": 1.25,
+      "evidence_offsets": [
+        [
+          1804,
+          1819
+        ],
+        [
+          1899,
+          1914
+        ],
+        [
+          2123,
+          2138
+        ]
+      ],
+      "aliases_matched": [
+        "data extraction"
+      ]
+    },
+    {
+      "skill": "sql",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          932,
+          935
+        ],
+        [
+          4216,
+          4219
+        ]
+      ],
+      "aliases_matched": [
+        "sql"
+      ]
+    },
+    {
+      "skill": "data analysis",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          114,
+          127
+        ],
+        [
+          636,
+          649
+        ]
+      ],
+      "aliases_matched": [
+        "data analysis"
+      ]
+    },
+    {
+      "skill": "statistical analysis",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          986,
+          1006
+        ],
+        [
+          3737,
+          3757
+        ]
+      ],
+      "aliases_matched": [
+        "statistical analysis"
+      ]
+    },
+    {
+      "skill": "data manipulation",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          697,
+          714
+        ],
+        [
+          3718,
+          3735
+        ]
+      ],
+      "aliases_matched": [
+        "data manipulation"
+      ]
+    },
+    {
+      "skill": "ai",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          1487,
+          1489
+        ],
+        [
+          4396,
+          4398
+        ]
+      ],
+      "aliases_matched": [
+        "ai"
+      ]
+    },
+    {
+      "skill": "pandas",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          744,
+          750
+        ],
+        [
+          2890,
+          2896
+        ]
+      ],
+      "aliases_matched": [
+        "pandas"
+      ]
+    },
+    {
+      "skill": "numpy",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          755,
+          760
+        ],
+        [
+          2898,
+          2903
+        ]
+      ],
+      "aliases_matched": [
+        "numpy"
+      ]
+    },
+    {
+      "skill": "accuracy",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          2151,
+          2159
+        ],
+        [
+          2352,
+          2360
+        ]
+      ],
+      "aliases_matched": [
+        "accuracy"
+      ]
+    },
+    {
+      "skill": "ml",
+      "score": 1.0,
+      "evidence_offsets": [
+        [
+          2694,
+          2696
+        ],
+        [
+          2876,
+          2878
+        ]
+      ],
+      "aliases_matched": [
+        "ml"
+      ]
+    },
+    {
+      "skill": "c",
+      "score": 0.83,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "communication",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          4628,
+          4641
+        ]
+      ],
+      "aliases_matched": [
+        "communication"
+      ]
+    },
+    {
+      "skill": "data visualization",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          809,
+          827
+        ]
+      ],
+      "aliases_matched": [
+        "data visualization"
+      ]
+    },
+    {
+      "skill": "data management",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1102,
+          1117
+        ]
+      ],
+      "aliases_matched": [
+        "data management"
+      ]
+    },
+    {
+      "skill": "java",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          3884,
+          3888
+        ]
+      ],
+      "aliases_matched": [
+        "java"
+      ]
+    },
+    {
+      "skill": "collaboration",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          3228,
+          3241
+        ]
+      ],
+      "aliases_matched": [
+        "collaboration"
+      ]
+    },
+    {
+      "skill": "artificial intelligence",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          320,
+          343
+        ]
+      ],
+      "aliases_matched": [
+        "artificial intelligence"
+      ]
+    },
+    {
+      "skill": "time management",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          4978,
+          4993
+        ]
+      ],
+      "aliases_matched": [
+        "time management"
+      ]
+    },
+    {
+      "skill": "engineering",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2951,
+          2962
+        ]
+      ],
+      "aliases_matched": [
+        "engineering"
+      ]
+    },
+    {
+      "skill": "deep learning",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1494,
+          1507
+        ]
+      ],
+      "aliases_matched": [
+        "deep learning"
+      ]
+    },
+    {
+      "skill": "automation",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1870,
+          1880
+        ]
+      ],
+      "aliases_matched": [
+        "automation"
+      ]
+    },
+    {
+      "skill": "statistical modeling",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          651,
+          671
+        ]
+      ],
+      "aliases_matched": [
+        "statistical modeling"
+      ]
+    },
+    {
+      "skill": "adaptability",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          4744,
+          4756
+        ]
+      ],
+      "aliases_matched": [
+        "adaptability"
+      ]
+    },
+    {
+      "skill": "monitoring",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1555,
+          1565
+        ]
+      ],
+      "aliases_matched": [
+        "monitoring"
+      ]
+    },
+    {
+      "skill": "programming",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          588,
+          599
+        ]
+      ],
+      "aliases_matched": [
+        "programming"
+      ]
+    },
+    {
+      "skill": "training",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2054,
+          2062
+        ]
+      ],
+      "aliases_matched": [
+        "training"
+      ]
+    },
+    {
+      "skill": "analytical thinking",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          4885,
+          4904
+        ]
+      ],
+      "aliases_matched": [
+        "analytical thinking"
+      ]
+    },
+    {
+      "skill": "testing",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1034,
+          1041
+        ]
+      ],
+      "aliases_matched": [
+        "testing"
+      ]
+    },
+    {
+      "skill": "security",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          3942,
+          3950
+        ]
+      ],
+      "aliases_matched": [
+        "security"
+      ]
+    },
+    {
+      "skill": "algorithms",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1532,
+          1542
+        ]
+      ],
+      "aliases_matched": [
+        "algorithms"
+      ]
+    },
+    {
+      "skill": "data preparation",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2817,
+          2833
+        ]
+      ],
+      "aliases_matched": [
+        "data preparation"
+      ]
+    },
+    {
+      "skill": "optimization",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2974,
+          2986
+        ]
+      ],
+      "aliases_matched": [
+        "optimization"
+      ]
+    },
+    {
+      "skill": "hypothesis testing",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1023,
+          1041
+        ]
+      ],
+      "aliases_matched": [
+        "hypothesis testing"
+      ]
+    },
+    {
+      "skill": "design",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          3269,
+          3275
+        ]
+      ],
+      "aliases_matched": [
+        "design"
+      ]
+    },
+    {
+      "skill": "programming languages",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          588,
+          609
+        ]
+      ],
+      "aliases_matched": [
+        "programming languages"
+      ]
+    },
+    {
+      "skill": "team collaboration",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          3223,
+          3241
+        ]
+      ],
+      "aliases_matched": [
+        "team collaboration"
+      ]
+    },
+    {
+      "skill": "modeling",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          663,
+          671
+        ]
+      ],
+      "aliases_matched": [
+        "modeling"
+      ]
+    },
+    {
+      "skill": "feature engineering",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2943,
+          2962
+        ]
+      ],
+      "aliases_matched": [
+        "feature engineering"
+      ]
+    },
+    {
+      "skill": "visualization",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          814,
+          827
+        ]
+      ],
+      "aliases_matched": [
+        "visualization"
+      ]
+    },
+    {
+      "skill": "technical skills",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          568,
+          584
+        ]
+      ],
+      "aliases_matched": [
+        "technical skills"
+      ]
+    },
+    {
+      "skill": "regression",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1046,
+          1056
+        ]
+      ],
+      "aliases_matched": [
+        "regression"
+      ]
+    },
+    {
+      "skill": "model evaluation",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2837,
+          2853
+        ]
+      ],
+      "aliases_matched": [
+        "model evaluation"
+      ]
+    },
+    {
+      "skill": "operations",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1723,
+          1733
+        ]
+      ],
+      "aliases_matched": [
+        "operations"
+      ]
+    },
+    {
+      "skill": "access",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          1655,
+          1661
+        ]
+      ],
+      "aliases_matched": [
+        "access"
+      ]
+    },
+    {
+      "skill": "data preprocessing",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2923,
+          2941
+        ]
+      ],
+      "aliases_matched": [
+        "data preprocessing"
+      ]
+    },
+    {
+      "skill": "continuous learning",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          192,
+          211
+        ]
+      ],
+      "aliases_matched": [
+        "continuous learning"
+      ]
+    },
+    {
+      "skill": "performance",
+      "score": 0.75,
+      "evidence_offsets": [
+        [
+          2998,
+          3009
+        ]
+      ],
+      "aliases_matched": [
+        "performance"
+      ]
+    },
+    {
+      "skill": "matlab",
+      "score": 0.64,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data visualization tools",
+      "score": 0.62,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data analyst",
+      "score": 0.62,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data cleaning",
+      "score": 0.6,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "analytical skills",
+      "score": 0.59,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data architect",
+      "score": 0.58,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data wrangling",
+      "score": 0.58,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data stewardship",
+      "score": 0.57,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data quality management",
+      "score": 0.57,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "database administration",
+      "score": 0.57,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "databases",
+      "score": 0.57,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "database management",
+      "score": 0.56,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    },
+    {
+      "skill": "data strategy",
+      "score": 0.56,
+      "evidence_offsets": [],
+      "aliases_matched": []
+    }
+  ],
+  "gaps": [
+    {
+      "skill": "data engineering",
+      "priority": 1
+    },
+    {
+      "skill": "spark",
+      "priority": 2
+    },
+    {
+      "skill": "aws",
+      "priority": 3
+    },
+    {
+      "skill": "snowflake",
+      "priority": 4
+    },
+    {
+      "skill": "data warehousing",
+      "priority": 5
+    },
+    {
+      "skill": "scala",
+      "priority": 6
+    },
+    {
+      "skill": "kafka",
+      "priority": 7
+    },
+    {
+      "skill": "hadoop",
+      "priority": 8
+    }
+  ],
+  "critique": {
+    "summary": "Match to 'Senior Data Engineer' is 33.7% (Low).",
+    "bullets": [
+      "Strengths detected: a, analysis, machine learning, development, python, management.",
+      "Improve match by adding: data engineering, spark, aws, snowflake, data warehousing.",
+      "Action: Keep a focused 'Skills' section (8\u201312 items) with versions (e.g., Python 3.11).",
+      "Action: Use Goal \u2192 Tools \u2192 Impact bullets and add metrics."
+    ],
+    "tone": "supportive"
+  },
+  "text_preview": "BOVILLA KRISHNA REDDY +91 [PHONE] [EMAIL] Career Objective: Aspiring data scientist with a passion for leveraging data analysis and machine learning to drive meaningful insights. Committed to continuous learning and eager to apply my skills in real-world applications while contributing to a team Education: o B.Tech in Artificial intelligence & Data Science, Annamacharya Institute, Rajampet, (CGPA: 7.84) 2020-2024 o Intermediate, Narayana Junior College, Kadapa, (CGPA: 8.32) 2018-2020 o Secondary Education, Ravindra Bharathi School, Kadapa, (CGPA: 9.7) 2017-2018 Technical Skills: o Programming Languages: Proficient in Python for data analysis, statistical modeling, and machine learning. o Data Manipulation Libraries: Strong command of Pandas and NumPy for efficient data handling and manipulation. o Data Visualization: Skilled in using Matplotlib for creating insightful visualizations. o Database Querying: Proficient in SQL for effective database querying and management. o Statistical Analysis: Experienced in hypothesis testing and regression analysis for deriving actionable insights. o Data Management: Expertise in cleaning, preprocessing, and wrangling data to ensure quality and us",
+  "model_ver": "bert-ner+semantic+alias-v2"
+}
