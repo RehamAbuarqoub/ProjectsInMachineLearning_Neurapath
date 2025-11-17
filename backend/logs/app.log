@@ -6,3 +6,20 @@
 2025-11-16 13:23:03,435 - app.resumes - INFO - Received resume upload: file=resume_7.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=5ad7dbad
 2025-11-16 13:23:03,830 - app.resumes - INFO - Parsed resume: rid=5ad7dbad, chars=5099
 2025-11-16 13:23:06,312 - app.resumes - INFO - Analysis complete: rid=5ad7dbad, alias_hits=77, ner_added=0, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=31.5
+2025-11-16 13:54:10,942 - neurapath.backend.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-16 13:57:05,895 - neurapath.backend.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-16 16:03:38,982 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=9422f868
+2025-11-16 16:03:39,519 - app.resumes - INFO - Parsed resume: rid=9422f868, chars=3449
+2025-11-16 16:03:47,904 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-16 16:04:13,135 - app.resumes - INFO - Analysis complete: rid=9422f868, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-16 17:24:02,921 - neurapath.backend.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-16 17:24:57,373 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=5a9407fa
+2025-11-16 17:24:57,918 - app.resumes - INFO - Parsed resume: rid=5a9407fa, chars=3449
+2025-11-16 17:25:04,209 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-16 17:25:20,059 - app.resumes - INFO - Analysis complete: rid=5a9407fa, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-16 17:59:53,688 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=918de806
+2025-11-16 17:59:54,085 - app.resumes - INFO - Parsed resume: rid=918de806, chars=3449
+2025-11-16 17:59:57,841 - app.resumes - INFO - Analysis complete: rid=918de806, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-16 18:15:27,729 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=4eb201ac
+2025-11-16 18:15:28,105 - app.resumes - INFO - Parsed resume: rid=4eb201ac, chars=3449
+2025-11-16 18:15:32,169 - app.resumes - INFO - Analysis complete: rid=4eb201ac, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4

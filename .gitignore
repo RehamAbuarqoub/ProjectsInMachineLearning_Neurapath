@@ -1,12 +1,18 @@
-# --- Backend env, artifacts, logs ---
+# --- Backend virtual environments ---
+backend/venv/
 backend/.venv/
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# --- Backend caches, artifacts, logs ---
 backend/__pycache__/
 backend/app/__pycache__/
 backend/app/logs/
-
 *.pyc
 
-# Optional: if you don't want dataset in git
+# --- Optional datasets (uncomment if needed) ---
 # backend/app/data/job_skill_data.csv
 # backend/app/data/skills_catalog.json
 # backend/app/data/role_templates.json

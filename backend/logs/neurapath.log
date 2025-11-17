@@ -1,0 +1,3 @@
+2025-11-16 08:34:49,723 - neurapath - INFO - NeuraPath backend application starting up.
+2025-11-16 08:34:49,727 - neurapath - INFO - All routers registered. Backend is ready to accept requests.
+2025-11-16 08:35:35,364 - neurapath - INFO - Root endpoint hit, redirecting to /docs.
