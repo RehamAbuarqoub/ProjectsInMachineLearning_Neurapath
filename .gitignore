@@ -26,3 +26,19 @@ frontend/.vite/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Ignore logs
+backend/logs/
+logs/
+
+# Ignore storage folder (uploaded files)
+backend/app/storage/
+
+# Ignore notebooks if not needed
+*.ipynb
+
+# Ignore PDFs
+*.pdf
+
+# Ignore JSON outputs
+backend/app/storage/*.json

@@ -23,3 +23,23 @@
 2025-11-16 18:15:27,729 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=4eb201ac
 2025-11-16 18:15:28,105 - app.resumes - INFO - Parsed resume: rid=4eb201ac, chars=3449
 2025-11-16 18:15:32,169 - app.resumes - INFO - Analysis complete: rid=4eb201ac, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-18 18:21:16,338 - neurapath.backend.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-18 18:30:57,319 - neurapath.backend.main - INFO - Health check called.
+2025-11-18 18:35:07,496 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=2500_SIGN_ON_BONUS_MEDICAL_TECHNOLOGIST_MLT_FT_E, rid=a708eaa5
+2025-11-18 18:35:08,809 - app.resumes - INFO - Parsed resume: rid=a708eaa5, chars=3449
+2025-11-18 18:35:20,023 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-18 18:35:56,776 - app.resumes - INFO - Analysis complete: rid=a708eaa5, alias_hits=87, ner_added=3, sem_added=0, selected=$2500 sign on bonus Medical Technologist/MLT FT Evenings Iuka, score=12.9
+2025-11-18 19:02:49,413 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=5461_DATA_ANALYST, rid=7a2b367d
+2025-11-18 19:02:49,887 - app.resumes - INFO - Parsed resume: rid=7a2b367d, chars=3449
+2025-11-18 19:02:54,259 - app.resumes - INFO - Analysis complete: rid=7a2b367d, alias_hits=87, ner_added=3, sem_added=0, selected=(5461) Data Analyst, score=25.7
+2025-11-18 19:07:47,860 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=022e8e36
+2025-11-18 19:07:49,508 - app.resumes - INFO - Parsed resume: rid=022e8e36, chars=3449
+2025-11-18 19:08:01,613 - app.resumes - INFO - Analysis complete: rid=022e8e36, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-19 12:00:33,187 - neurapath.backend.main - INFO - Health check called.
+2025-11-19 12:01:06,762 - app.resumes - INFO - Received resume upload: file=Abuarqoub, Reham Resume.pdf, role_id=23_078_SENIOR_RESEARCH_DATA_ANALYST, rid=88c3cf30
+2025-11-19 12:01:07,511 - app.resumes - INFO - Parsed resume: rid=88c3cf30, chars=3449
+2025-11-19 12:01:15,944 - app.resumes - INFO - Analysis complete: rid=88c3cf30, alias_hits=87, ner_added=3, sem_added=0, selected=#23-078 Senior Research & Data Analyst, score=36.4
+2025-11-19 12:24:34,203 - neurapath.backend.main - INFO - Health check called.
+2025-11-19 12:37:37,136 - neurapath.backend.main - INFO - Health check called.
+2025-11-19 12:58:20,585 - neurapath.backend.main - INFO - FastAPI startup complete. Logging configured and app ready.
+2025-11-19 13:11:56,038 - neurapath.backend.main - INFO - Health check called.
