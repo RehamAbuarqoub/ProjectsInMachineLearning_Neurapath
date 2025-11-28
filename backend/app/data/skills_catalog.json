@@ -1,0 +1,3579 @@
+{
+  "python": [
+    "python"
+  ],
+  "sql": [
+    "sql"
+  ],
+  "data analysis": [
+    "data analysis",
+    "dataanalysis"
+  ],
+  "machine learning": [
+    "machine learning",
+    "machinelearning"
+  ],
+  "communication": [
+    "communication"
+  ],
+  "data visualization": [
+    "data visualization",
+    "datavisualization"
+  ],
+  "aws": [
+    "aws"
+  ],
+  "project management": [
+    "project management",
+    "projectmanagement"
+  ],
+  "data engineering": [
+    "data engineering",
+    "dataengineering"
+  ],
+  "communication skills": [
+    "communication skills",
+    "communicationskills"
+  ],
+  "tableau": [
+    "tableau"
+  ],
+  "data science": [
+    "data science",
+    "datascience"
+  ],
+  "data modeling": [
+    "data modeling",
+    "datamodeling"
+  ],
+  "data management": [
+    "data management",
+    "datamanagement"
+  ],
+  "java": [
+    "java"
+  ],
+  "problem solving": [
+    "problem solving",
+    "problemsolving"
+  ],
+  "spark": [
+    "spark"
+  ],
+  "data warehousing": [
+    "data warehousing",
+    "datawarehousing"
+  ],
+  "data analytics": [
+    "data analytics",
+    "dataanalytics"
+  ],
+  "teamwork": [
+    "teamwork"
+  ],
+  "analytical skills": [
+    "analytical skills",
+    "analyticalskills"
+  ],
+  "data governance": [
+    "data governance",
+    "datagovernance"
+  ],
+  "cloud computing": [
+    "cloud computing",
+    "cloudcomputing"
+  ],
+  "hadoop": [
+    "hadoop"
+  ],
+  "attention to detail": [
+    "attention to detail",
+    "attentiontodetail"
+  ],
+  "collaboration": [
+    "collaboration"
+  ],
+  "computer science": [
+    "computer science",
+    "computerscience"
+  ],
+  "snowflake": [
+    "snowflake"
+  ],
+  "power bi": [
+    "power bi",
+    "powerbi"
+  ],
+  "scala": [
+    "scala"
+  ],
+  "statistics": [
+    "statistics"
+  ],
+  "data mining": [
+    "data mining",
+    "datamining"
+  ],
+  "business intelligence": [
+    "business intelligence",
+    "businessintelligence"
+  ],
+  "etl": [
+    "etl"
+  ],
+  "agile": [
+    "agile"
+  ],
+  "problemsolving": [
+    "problemsolving"
+  ],
+  "azure": [
+    "azure"
+  ],
+  "data quality": [
+    "data quality",
+    "dataquality"
+  ],
+  "bachelor's degree": [
+    "bachelor's degree",
+    "bachelor'sdegree"
+  ],
+  "leadership": [
+    "leadership"
+  ],
+  "data integration": [
+    "data integration",
+    "dataintegration"
+  ],
+  "linux": [
+    "linux"
+  ],
+  "reporting": [
+    "reporting"
+  ],
+  "data pipelines": [
+    "data pipelines",
+    "datapipelines"
+  ],
+  "excel": [
+    "excel"
+  ],
+  "nosql": [
+    "nosql"
+  ],
+  "data architecture": [
+    "data architecture",
+    "dataarchitecture"
+  ],
+  "kafka": [
+    "kafka"
+  ],
+  "troubleshooting": [
+    "troubleshooting"
+  ],
+  "data security": [
+    "data security",
+    "datasecurity"
+  ],
+  "tensorflow": [
+    "tensorflow"
+  ],
+  "artificial intelligence": [
+    "artificial intelligence",
+    "artificialintelligence"
+  ],
+  "software development": [
+    "software development",
+    "softwaredevelopment"
+  ],
+  "time management": [
+    "time management",
+    "timemanagement"
+  ],
+  "hive": [
+    "hive"
+  ],
+  "big data": [
+    "big data",
+    "bigdata"
+  ],
+  "engineering": [
+    "engineering"
+  ],
+  "deep learning": [
+    "deep learning",
+    "deeplearning"
+  ],
+  "pytorch": [
+    "pytorch"
+  ],
+  "statistical analysis": [
+    "statistical analysis",
+    "statisticalanalysis"
+  ],
+  "kubernetes": [
+    "kubernetes"
+  ],
+  "unix": [
+    "unix"
+  ],
+  "interpersonal skills": [
+    "interpersonal skills",
+    "interpersonalskills"
+  ],
+  "redshift": [
+    "redshift"
+  ],
+  "mysql": [
+    "mysql"
+  ],
+  "software engineering": [
+    "software engineering",
+    "softwareengineering"
+  ],
+  "critical thinking": [
+    "critical thinking",
+    "criticalthinking"
+  ],
+  "docker": [
+    "docker"
+  ],
+  "databricks": [
+    "databricks"
+  ],
+  "jira": [
+    "jira"
+  ],
+  "devops": [
+    "devops"
+  ],
+  "organizational skills": [
+    "organizational skills",
+    "organizationalskills"
+  ],
+  "oracle": [
+    "oracle"
+  ],
+  "problemsolving skills": [
+    "problemsolving skills",
+    "problemsolvingskills"
+  ],
+  "presentation skills": [
+    "presentation skills",
+    "presentationskills"
+  ],
+  "gcp": [
+    "gcp"
+  ],
+  "analytics": [
+    "analytics"
+  ],
+  "data integrity": [
+    "data integrity",
+    "dataintegrity"
+  ],
+  "ci": [
+    "ci"
+  ],
+  "git": [
+    "git"
+  ],
+  "sas": [
+    "sas"
+  ],
+  "agile development": [
+    "agile development",
+    "agiledevelopment"
+  ],
+  "airflow": [
+    "airflow"
+  ],
+  "data transformation": [
+    "data transformation",
+    "datatransformation"
+  ],
+  "microsoft office suite": [
+    "microsoft office suite",
+    "microsoftofficesuite"
+  ],
+  "data collection": [
+    "data collection",
+    "datacollection"
+  ],
+  "sql server": [
+    "sql server",
+    "sqlserver"
+  ],
+  "customer service": [
+    "customer service",
+    "customerservice"
+  ],
+  "c++": [
+    "c++"
+  ],
+  "documentation": [
+    "documentation"
+  ],
+  "mathematics": [
+    "mathematics"
+  ],
+  "written communication": [
+    "written communication",
+    "writtencommunication"
+  ],
+  "mentoring": [
+    "mentoring"
+  ],
+  "automation": [
+    "automation"
+  ],
+  "data manipulation": [
+    "data manipulation",
+    "datamanipulation"
+  ],
+  "risk management": [
+    "risk management",
+    "riskmanagement"
+  ],
+  "powerbi": [
+    "powerbi"
+  ],
+  "emr": [
+    "emr"
+  ],
+  "cassandra": [
+    "cassandra"
+  ],
+  "data processing": [
+    "data processing",
+    "dataprocessing"
+  ],
+  "data interpretation": [
+    "data interpretation",
+    "datainterpretation"
+  ],
+  "databases": [
+    "databases"
+  ],
+  "multitasking": [
+    "multitasking"
+  ],
+  "pyspark": [
+    "pyspark"
+  ],
+  "data extraction": [
+    "data extraction",
+    "dataextraction"
+  ],
+  "ai": [
+    "ai"
+  ],
+  "quality control": [
+    "quality control",
+    "qualitycontrol"
+  ],
+  "natural language processing": [
+    "natural language processing",
+    "naturallanguageprocessing"
+  ],
+  "research": [
+    "research"
+  ],
+  "b testing": [
+    "b testing",
+    "btesting"
+  ],
+  "statistical modeling": [
+    "statistical modeling",
+    "statisticalmodeling"
+  ],
+  "microsoft office": [
+    "microsoft office",
+    "microsoftoffice"
+  ],
+  "scrum": [
+    "scrum"
+  ],
+  "data entry": [
+    "data entry",
+    "dataentry"
+  ],
+  "data reporting": [
+    "data reporting",
+    "datareporting"
+  ],
+  "adaptability": [
+    "adaptability"
+  ],
+  "business analysis": [
+    "business analysis",
+    "businessanalysis"
+  ],
+  "flexibility": [
+    "flexibility"
+  ],
+  "cd": [
+    "cd"
+  ],
+  "microsoft excel": [
+    "microsoft excel",
+    "microsoftexcel"
+  ],
+  "relational databases": [
+    "relational databases",
+    "relationaldatabases"
+  ],
+  "apache spark": [
+    "apache spark",
+    "apachespark"
+  ],
+  "data cleansing": [
+    "data cleansing",
+    "datacleansing"
+  ],
+  "verbal communication": [
+    "verbal communication",
+    "verbalcommunication"
+  ],
+  "data privacy": [
+    "data privacy",
+    "dataprivacy"
+  ],
+  "mongodb": [
+    "mongodb"
+  ],
+  "master's degree": [
+    "master's degree",
+    "master'sdegree"
+  ],
+  "data validation": [
+    "data validation",
+    "datavalidation"
+  ],
+  "pandas": [
+    "pandas"
+  ],
+  "mapreduce": [
+    "mapreduce"
+  ],
+  "nlp": [
+    "nlp"
+  ],
+  "microsoft azure": [
+    "microsoft azure",
+    "microsoftazure"
+  ],
+  "data migration": [
+    "data migration",
+    "datamigration"
+  ],
+  "database design": [
+    "database design",
+    "databasedesign"
+  ],
+  "s3": [
+    "s3"
+  ],
+  "prioritization": [
+    "prioritization"
+  ],
+  "compliance": [
+    "compliance"
+  ],
+  "monitoring": [
+    "monitoring"
+  ],
+  "scikitlearn": [
+    "scikitlearn"
+  ],
+  "google cloud": [
+    "google cloud",
+    "googlecloud"
+  ],
+  "change management": [
+    "change management",
+    "changemanagement"
+  ],
+  "stakeholder management": [
+    "stakeholder management",
+    "stakeholdermanagement"
+  ],
+  "programming": [
+    "programming"
+  ],
+  "data structures": [
+    "data structures",
+    "datastructures"
+  ],
+  "shell scripting": [
+    "shell scripting",
+    "shellscripting"
+  ],
+  "data warehouse": [
+    "data warehouse",
+    "datawarehouse"
+  ],
+  "team leadership": [
+    "team leadership",
+    "teamleadership"
+  ],
+  "quality assurance": [
+    "quality assurance",
+    "qualityassurance"
+  ],
+  "gurobi": [
+    "gurobi"
+  ],
+  "database administration": [
+    "database administration",
+    "databaseadministration"
+  ],
+  "distributed systems": [
+    "distributed systems",
+    "distributedsystems"
+  ],
+  "training": [
+    "training"
+  ],
+  "analytical thinking": [
+    "analytical thinking",
+    "analyticalthinking"
+  ],
+  "testing": [
+    "testing"
+  ],
+  "innovation": [
+    "innovation"
+  ],
+  "numpy": [
+    "numpy"
+  ],
+  "security": [
+    "security"
+  ],
+  "finance": [
+    "finance"
+  ],
+  "postgresql": [
+    "postgresql"
+  ],
+  "data storage": [
+    "data storage",
+    "datastorage"
+  ],
+  "database management": [
+    "database management",
+    "databasemanagement"
+  ],
+  "technical writing": [
+    "technical writing",
+    "technicalwriting"
+  ],
+  "algorithms": [
+    "algorithms"
+  ],
+  "decision making": [
+    "decision making",
+    "decisionmaking"
+  ],
+  "agile methodologies": [
+    "agile methodologies",
+    "agilemethodologies"
+  ],
+  "unit testing": [
+    "unit testing",
+    "unittesting"
+  ],
+  "javascript": [
+    "javascript"
+  ],
+  "performance tuning": [
+    "performance tuning",
+    "performancetuning"
+  ],
+  "business acumen": [
+    "business acumen",
+    "businessacumen"
+  ],
+  "rdbms": [
+    "rdbms"
+  ],
+  "data profiling": [
+    "data profiling",
+    "dataprofiling"
+  ],
+  "big data technologies": [
+    "big data technologies",
+    "bigdatatechnologies"
+  ],
+  "economics": [
+    "economics"
+  ],
+  "reinforcement learning": [
+    "reinforcement learning",
+    "reinforcementlearning"
+  ],
+  "computer vision": [
+    "computer vision",
+    "computervision"
+  ],
+  "confluence": [
+    "confluence"
+  ],
+  "jenkins": [
+    "jenkins"
+  ],
+  "powerpoint": [
+    "powerpoint"
+  ],
+  "data cleaning": [
+    "data cleaning",
+    "datacleaning"
+  ],
+  "ssis": [
+    "ssis"
+  ],
+  "terraform": [
+    "terraform"
+  ],
+  "data protection": [
+    "data protection",
+    "dataprotection"
+  ],
+  "data lakes": [
+    "data lakes",
+    "datalakes"
+  ],
+  "experimentation": [
+    "experimentation"
+  ],
+  "azure data factory": [
+    "azure data factory",
+    "azuredatafactory"
+  ],
+  "mongo": [
+    "mongo"
+  ],
+  "information technology": [
+    "information technology",
+    "informationtechnology"
+  ],
+  "microservices": [
+    "microservices"
+  ],
+  "predictive modeling": [
+    "predictive modeling",
+    "predictivemodeling"
+  ],
+  "data preparation": [
+    "data preparation",
+    "datapreparation"
+  ],
+  "process improvement": [
+    "process improvement",
+    "processimprovement"
+  ],
+  "organization": [
+    "organization"
+  ],
+  "sap": [
+    "sap"
+  ],
+  "information systems": [
+    "information systems",
+    "informationsystems"
+  ],
+  "continuous integration": [
+    "continuous integration",
+    "continuousintegration"
+  ],
+  "c#": [
+    "c#"
+  ],
+  "optimization": [
+    "optimization"
+  ],
+  "agile engineering practices": [
+    "agile engineering practices",
+    "agileengineeringpractices"
+  ],
+  "looker": [
+    "looker"
+  ],
+  "dashboards": [
+    "dashboards"
+  ],
+  "data lake": [
+    "data lake",
+    "datalake"
+  ],
+  "networking": [
+    "networking"
+  ],
+  "scalability": [
+    "scalability"
+  ],
+  "tsql": [
+    "tsql"
+  ],
+  "dbt": [
+    "dbt"
+  ],
+  "google cloud platform": [
+    "google cloud platform",
+    "googlecloudplatform"
+  ],
+  "json": [
+    "json"
+  ],
+  "accuracy": [
+    "accuracy"
+  ],
+  "product management": [
+    "product management",
+    "productmanagement"
+  ],
+  "cybersecurity": [
+    "cybersecurity"
+  ],
+  "data modelling": [
+    "data modelling",
+    "datamodelling"
+  ],
+  "postgres": [
+    "postgres"
+  ],
+  "crossfunctional collaboration": [
+    "crossfunctional collaboration",
+    "crossfunctionalcollaboration"
+  ],
+  "deployment": [
+    "deployment"
+  ],
+  "forecasting": [
+    "forecasting"
+  ],
+  "generative ai": [
+    "generative ai",
+    "generativeai"
+  ],
+  "hypothesis testing": [
+    "hypothesis testing",
+    "hypothesistesting"
+  ],
+  "github": [
+    "github"
+  ],
+  "pl": [
+    "pl"
+  ],
+  "informatica": [
+    "informatica"
+  ],
+  "medical technology": [
+    "medical technology",
+    "medicaltechnology"
+  ],
+  "distributed computing": [
+    "distributed computing",
+    "distributedcomputing"
+  ],
+  "regulatory compliance": [
+    "regulatory compliance",
+    "regulatorycompliance"
+  ],
+  "data ingestion": [
+    "data ingestion",
+    "dataingestion"
+  ],
+  "design": [
+    "design"
+  ],
+  "mlops": [
+    "mlops"
+  ],
+  "scripting": [
+    "scripting"
+  ],
+  "windows": [
+    "windows"
+  ],
+  "nosql databases": [
+    "nosql databases",
+    "nosqldatabases"
+  ],
+  "xml": [
+    "xml"
+  ],
+  "presentation": [
+    "presentation"
+  ],
+  "data mapping": [
+    "data mapping",
+    "datamapping"
+  ],
+  "bash": [
+    "bash"
+  ],
+  "ts": [
+    "ts"
+  ],
+  "data accuracy": [
+    "data accuracy",
+    "dataaccuracy"
+  ],
+  "equal opportunity employer": [
+    "equal opportunity employer",
+    "equalopportunityemployer"
+  ],
+  "datadriven decision making": [
+    "datadriven decision making",
+    "datadrivendecisionmaking"
+  ],
+  "development": [
+    "development"
+  ],
+  "diversity": [
+    "diversity"
+  ],
+  "programming languages": [
+    "programming languages",
+    "programminglanguages"
+  ],
+  "predictive analytics": [
+    "predictive analytics",
+    "predictiveanalytics"
+  ],
+  "matlab": [
+    "matlab"
+  ],
+  "scheduling": [
+    "scheduling"
+  ],
+  "master data management": [
+    "master data management",
+    "masterdatamanagement"
+  ],
+  "llms": [
+    "llms"
+  ],
+  "team management": [
+    "team management",
+    "teammanagement"
+  ],
+  "etl processes": [
+    "etl processes",
+    "etlprocesses"
+  ],
+  "business requirements": [
+    "business requirements",
+    "businessrequirements"
+  ],
+  "chemistry": [
+    "chemistry"
+  ],
+  "data models": [
+    "data models",
+    "datamodels"
+  ],
+  "microsoft sql server": [
+    "microsoft sql server",
+    "microsoftsqlserver"
+  ],
+  "electrical engineering": [
+    "electrical engineering",
+    "electricalengineering"
+  ],
+  "elt": [
+    "elt"
+  ],
+  "data warehouses": [
+    "data warehouses",
+    "datawarehouses"
+  ],
+  "data lineage": [
+    "data lineage",
+    "datalineage"
+  ],
+  "business analytics": [
+    "business analytics",
+    "businessanalytics"
+  ],
+  "statistical methods": [
+    "statistical methods",
+    "statisticalmethods"
+  ],
+  "data quality management": [
+    "data quality management",
+    "dataqualitymanagement"
+  ],
+  "stored procedures": [
+    "stored procedures",
+    "storedprocedures"
+  ],
+  "planning": [
+    "planning"
+  ],
+  "data strategy": [
+    "data strategy",
+    "datastrategy"
+  ],
+  "model deployment": [
+    "model deployment",
+    "modeldeployment"
+  ],
+  "autonomy": [
+    "autonomy"
+  ],
+  "requirements gathering": [
+    "requirements gathering",
+    "requirementsgathering"
+  ],
+  "team collaboration": [
+    "team collaboration",
+    "teamcollaboration"
+  ],
+  "travel": [
+    "travel"
+  ],
+  "sharepoint": [
+    "sharepoint"
+  ],
+  "inclusion": [
+    "inclusion"
+  ],
+  "root cause analysis": [
+    "root cause analysis",
+    "rootcauseanalysis"
+  ],
+  "lambda": [
+    "lambda"
+  ],
+  "initiative": [
+    "initiative"
+  ],
+  "modeling": [
+    "modeling"
+  ],
+  "open source rdbms": [
+    "open source rdbms",
+    "opensourcerdbms"
+  ],
+  "salesforce": [
+    "salesforce"
+  ],
+  "data standards": [
+    "data standards",
+    "datastandards"
+  ],
+  "kanban": [
+    "kanban"
+  ],
+  "ml": [
+    "ml"
+  ],
+  "vendor management": [
+    "vendor management",
+    "vendormanagement"
+  ],
+  "probabilistic graphs": [
+    "probabilistic graphs",
+    "probabilisticgraphs"
+  ],
+  "realtime data": [
+    "realtime data",
+    "realtimedata"
+  ],
+  "powershell": [
+    "powershell"
+  ],
+  "ssrs": [
+    "ssrs"
+  ],
+  "data gathering": [
+    "data gathering",
+    "datagathering"
+  ],
+  "leadership skills": [
+    "leadership skills",
+    "leadershipskills"
+  ],
+  "etl pipelines": [
+    "etl pipelines",
+    "etlpipelines"
+  ],
+  "high school diploma": [
+    "high school diploma",
+    "highschooldiploma"
+  ],
+  "medical technologist": [
+    "medical technologist",
+    "medicaltechnologist"
+  ],
+  "operating systems": [
+    "operating systems",
+    "operatingsystems"
+  ],
+  "microsoft word": [
+    "microsoft word",
+    "microsoftword"
+  ],
+  "analysis": [
+    "analysis"
+  ],
+  "confidentiality": [
+    "confidentiality"
+  ],
+  "people management": [
+    "people management",
+    "peoplemanagement"
+  ],
+  "maintenance": [
+    "maintenance"
+  ],
+  "metadata management": [
+    "metadata management",
+    "metadatamanagement"
+  ],
+  "independent work": [
+    "independent work",
+    "independentwork"
+  ],
+  "azure devops": [
+    "azure devops",
+    "azuredevops"
+  ],
+  "feature engineering": [
+    "feature engineering",
+    "featureengineering"
+  ],
+  "workflow orchestration": [
+    "workflow orchestration",
+    "workfloworchestration"
+  ],
+  "cism": [
+    "cism"
+  ],
+  "alteryx": [
+    "alteryx"
+  ],
+  "cloud services": [
+    "cloud services",
+    "cloudservices"
+  ],
+  "report writing": [
+    "report writing",
+    "reportwriting"
+  ],
+  "word": [
+    "word"
+  ],
+  "cissp": [
+    "cissp"
+  ],
+  "coaching": [
+    "coaching"
+  ],
+  "streaming applications": [
+    "streaming applications",
+    "streamingapplications"
+  ],
+  "visualization": [
+    "visualization"
+  ],
+  "consulting": [
+    "consulting"
+  ],
+  "healthcare": [
+    "healthcare"
+  ],
+  "statistical techniques": [
+    "statistical techniques",
+    "statisticaltechniques"
+  ],
+  "negotiation": [
+    "negotiation"
+  ],
+  "program management": [
+    "program management",
+    "programmanagement"
+  ],
+  "budgeting": [
+    "budgeting"
+  ],
+  "team player": [
+    "team player",
+    "teamplayer"
+  ],
+  "quantitative analysis": [
+    "quantitative analysis",
+    "quantitativeanalysis"
+  ],
+  "disaster recovery": [
+    "disaster recovery",
+    "disasterrecovery"
+  ],
+  "product development": [
+    "product development",
+    "productdevelopment"
+  ],
+  "data infrastructure": [
+    "data infrastructure",
+    "datainfrastructure"
+  ],
+  "data presentation": [
+    "data presentation",
+    "datapresentation"
+  ],
+  "life insurance": [
+    "life insurance",
+    "lifeinsurance"
+  ],
+  "selfmotivation": [
+    "selfmotivation"
+  ],
+  "performance optimization": [
+    "performance optimization",
+    "performanceoptimization"
+  ],
+  "product ownership": [
+    "product ownership",
+    "productownership"
+  ],
+  "distributed data": [
+    "distributed data",
+    "distributeddata"
+  ],
+  "clustering": [
+    "clustering"
+  ],
+  "advanced analytics": [
+    "advanced analytics",
+    "advancedanalytics"
+  ],
+  "business": [
+    "business"
+  ],
+  "data center operations": [
+    "data center operations",
+    "datacenteroperations"
+  ],
+  "distributed microservices": [
+    "distributed microservices",
+    "distributedmicroservices"
+  ],
+  "agile methodology": [
+    "agile methodology",
+    "agilemethodology"
+  ],
+  "cloud platforms": [
+    "cloud platforms",
+    "cloudplatforms"
+  ],
+  "apis": [
+    "apis"
+  ],
+  "keras": [
+    "keras"
+  ],
+  "saas": [
+    "saas"
+  ],
+  "accounting": [
+    "accounting"
+  ],
+  "fastpaced environment": [
+    "fastpaced environment",
+    "fastpacedenvironment"
+  ],
+  "paid time off": [
+    "paid time off",
+    "paidtimeoff"
+  ],
+  "cloud": [
+    "cloud"
+  ],
+  "jupyter": [
+    "jupyter"
+  ],
+  "continuous improvement": [
+    "continuous improvement",
+    "continuousimprovement"
+  ],
+  "financial services": [
+    "financial services",
+    "financialservices"
+  ],
+  "database development": [
+    "database development",
+    "databasedevelopment"
+  ],
+  "creativity": [
+    "creativity"
+  ],
+  "cisa": [
+    "cisa"
+  ],
+  "spss": [
+    "spss"
+  ],
+  "mlflow": [
+    "mlflow"
+  ],
+  "bigquery": [
+    "bigquery"
+  ],
+  "technical skills": [
+    "technical skills",
+    "technicalskills"
+  ],
+  "ascp certification": [
+    "ascp certification",
+    "ascpcertification"
+  ],
+  "data architect": [
+    "data architect",
+    "dataarchitect"
+  ],
+  "risk assessment": [
+    "risk assessment",
+    "riskassessment"
+  ],
+  "ms excel": [
+    "ms excel",
+    "msexcel"
+  ],
+  "oral communication": [
+    "oral communication",
+    "oralcommunication"
+  ],
+  "financial analysis": [
+    "financial analysis",
+    "financialanalysis"
+  ],
+  "sci clearance": [
+    "sci clearance",
+    "sciclearance"
+  ],
+  "collaboration skills": [
+    "collaboration skills",
+    "collaborationskills"
+  ],
+  "architecture": [
+    "architecture"
+  ],
+  "medical laboratory technician": [
+    "medical laboratory technician",
+    "medicallaboratorytechnician"
+  ],
+  "safety": [
+    "safety"
+  ],
+  "ms office": [
+    "ms office",
+    "msoffice"
+  ],
+  "data quality assurance": [
+    "data quality assurance",
+    "dataqualityassurance"
+  ],
+  "teamfirst mentality": [
+    "teamfirst mentality",
+    "teamfirstmentality"
+  ],
+  "amazon web services": [
+    "amazon web services",
+    "amazonwebservices"
+  ],
+  "physics": [
+    "physics"
+  ],
+  "gdpr": [
+    "gdpr"
+  ],
+  "etl tools": [
+    "etl tools",
+    "etltools"
+  ],
+  "html": [
+    "html"
+  ],
+  "data standardization": [
+    "data standardization",
+    "datastandardization"
+  ],
+  "hiring": [
+    "hiring"
+  ],
+  "strategic thinking": [
+    "strategic thinking",
+    "strategicthinking"
+  ],
+  "regression": [
+    "regression"
+  ],
+  "decisionmaking": [
+    "decisionmaking"
+  ],
+  "model training": [
+    "model training",
+    "modeltraining"
+  ],
+  "english": [
+    "english"
+  ],
+  "vision": [
+    "vision"
+  ],
+  "ascp": [
+    "ascp"
+  ],
+  "cloud technologies": [
+    "cloud technologies",
+    "cloudtechnologies"
+  ],
+  "software": [
+    "software"
+  ],
+  "virtualization": [
+    "virtualization"
+  ],
+  "construction management": [
+    "construction management",
+    "constructionmanagement"
+  ],
+  "technology": [
+    "technology"
+  ],
+  "metadata": [
+    "metadata"
+  ],
+  "inventory management": [
+    "inventory management",
+    "inventorymanagement"
+  ],
+  "hbase": [
+    "hbase"
+  ],
+  "coding": [
+    "coding"
+  ],
+  "strategic planning": [
+    "strategic planning",
+    "strategicplanning"
+  ],
+  "application development": [
+    "application development",
+    "applicationdevelopment"
+  ],
+  "model evaluation": [
+    "model evaluation",
+    "modelevaluation"
+  ],
+  "microbiology": [
+    "microbiology"
+  ],
+  "computing tools": [
+    "computing tools",
+    "computingtools"
+  ],
+  "data loading": [
+    "data loading",
+    "dataloading"
+  ],
+  "mechanical engineering": [
+    "mechanical engineering",
+    "mechanicalengineering"
+  ],
+  "data acquisition": [
+    "data acquisition",
+    "dataacquisition"
+  ],
+  "pig": [
+    "pig"
+  ],
+  "management": [
+    "management"
+  ],
+  "security+": [
+    "security+"
+  ],
+  "medical laboratory science": [
+    "medical laboratory science",
+    "medicallaboratoryscience"
+  ],
+  "stakeholder engagement": [
+    "stakeholder engagement",
+    "stakeholderengagement"
+  ],
+  "information security": [
+    "information security",
+    "informationsecurity"
+  ],
+  "go": [
+    "go"
+  ],
+  "apache airflow": [
+    "apache airflow",
+    "apacheairflow"
+  ],
+  "elasticsearch": [
+    "elasticsearch"
+  ],
+  "azure databricks": [
+    "azure databricks",
+    "azuredatabricks"
+  ],
+  "sales": [
+    "sales"
+  ],
+  "business development": [
+    "business development",
+    "businessdevelopment"
+  ],
+  "data visualization tools": [
+    "data visualization tools",
+    "datavisualizationtools"
+  ],
+  "ansible": [
+    "ansible"
+  ],
+  "hematology": [
+    "hematology"
+  ],
+  "marketing": [
+    "marketing"
+  ],
+  "systems engineering": [
+    "systems engineering",
+    "systemsengineering"
+  ],
+  "ml ops": [
+    "ml ops",
+    "ml-ops",
+    "mlops"
+  ],
+  "diversity and inclusion": [
+    "diversity and inclusion",
+    "diversityandinclusion"
+  ],
+  "sdlc": [
+    "sdlc"
+  ],
+  "golang": [
+    "golang"
+  ],
+  "software architecture": [
+    "software architecture",
+    "softwarearchitecture"
+  ],
+  "neural networks": [
+    "neural networks",
+    "neuralnetworks"
+  ],
+  "data wrangling": [
+    "data wrangling",
+    "datawrangling"
+  ],
+  "db2": [
+    "db2"
+  ],
+  "debugging": [
+    "debugging"
+  ],
+  "relationship building": [
+    "relationship building",
+    "relationshipbuilding"
+  ],
+  "ccsp": [
+    "ccsp"
+  ],
+  "implementation": [
+    "implementation"
+  ],
+  "database security": [
+    "database security",
+    "databasesecurity"
+  ],
+  "operations": [
+    "operations"
+  ],
+  "microsoft power bi": [
+    "microsoft power bi",
+    "microsoftpowerbi"
+  ],
+  "remote work": [
+    "remote work",
+    "remotework"
+  ],
+  "clinical experience": [
+    "clinical experience",
+    "clinicalexperience"
+  ],
+  "system design": [
+    "system design",
+    "systemdesign"
+  ],
+  "code reviews": [
+    "code reviews",
+    "codereviews"
+  ],
+  "data stewardship": [
+    "data stewardship",
+    "datastewardship"
+  ],
+  "dask": [
+    "dask"
+  ],
+  "data classification": [
+    "data classification",
+    "dataclassification"
+  ],
+  "access": [
+    "access"
+  ],
+  "detailoriented": [
+    "detailoriented"
+  ],
+  "numba": [
+    "numba"
+  ],
+  "glue": [
+    "glue"
+  ],
+  "version control": [
+    "version control",
+    "versioncontrol"
+  ],
+  "google analytics": [
+    "google analytics",
+    "googleanalytics"
+  ],
+  "team work": [
+    "team work",
+    "teamwork"
+  ],
+  "data compliance": [
+    "data compliance",
+    "datacompliance"
+  ],
+  "containerization": [
+    "containerization"
+  ],
+  "graph databases": [
+    "graph databases",
+    "graphdatabases"
+  ],
+  "giac": [
+    "giac"
+  ],
+  "best practices": [
+    "best practices",
+    "bestpractices"
+  ],
+  "operations research": [
+    "operations research",
+    "operationsresearch"
+  ],
+  "data loss prevention (dlp": [
+    "data loss prevention (dlp",
+    "datalossprevention(dlp"
+  ],
+  "healthcare data": [
+    "healthcare data",
+    "healthcaredata"
+  ],
+  "aws cloud practitioner": [
+    "aws cloud practitioner",
+    "awscloudpractitioner"
+  ],
+  "configuration management": [
+    "configuration management",
+    "configurationmanagement"
+  ],
+  "data preprocessing": [
+    "data preprocessing",
+    "datapreprocessing"
+  ],
+  "continuous learning": [
+    "continuous learning",
+    "continuouslearning"
+  ],
+  "budget management": [
+    "budget management",
+    "budgetmanagement"
+  ],
+  "apache kafka": [
+    "apache kafka",
+    "apachekafka"
+  ],
+  "teradata": [
+    "teradata"
+  ],
+  "active directory": [
+    "active directory",
+    "activedirectory"
+  ],
+  "reports": [
+    "reports"
+  ],
+  "code review": [
+    "code review",
+    "codereview"
+  ],
+  "database architecture": [
+    "database architecture",
+    "databasearchitecture"
+  ],
+  "patient care": [
+    "patient care",
+    "patientcare"
+  ],
+  "dynamodb": [
+    "dynamodb"
+  ],
+  "ec2": [
+    "ec2"
+  ],
+  "gis": [
+    "gis"
+  ],
+  "crossfunctional teams": [
+    "crossfunctional teams",
+    "crossfunctionalteams"
+  ],
+  "visio": [
+    "visio"
+  ],
+  "performance": [
+    "performance"
+  ],
+  "data analyst": [
+    "data analyst",
+    "dataanalyst"
+  ],
+  "data platforms": [
+    "data platforms",
+    "dataplatforms"
+  ],
+  "tdd": [
+    "tdd"
+  ],
+  "teamwork skills": [
+    "teamwork skills",
+    "teamworkskills"
+  ],
+  "hipaa": [
+    "hipaa"
+  ],
+  "health insurance": [
+    "health insurance",
+    "healthinsurance"
+  ],
+  "dental insurance": [
+    "dental insurance",
+    "dentalinsurance"
+  ],
+  "medical terminology": [
+    "medical terminology",
+    "medicalterminology"
+  ],
+  "aml": [
+    "aml"
+  ],
+  "computer engineering": [
+    "computer engineering",
+    "computerengineering"
+  ],
+  "gitlab": [
+    "gitlab"
+  ],
+  "technical leadership": [
+    "technical leadership",
+    "technicalleadership"
+  ],
+  "tuition reimbursement": [
+    "tuition reimbursement",
+    "tuitionreimbursement"
+  ],
+  "vision insurance": [
+    "vision insurance",
+    "visioninsurance"
+  ],
+  "yaml": [
+    "yaml"
+  ],
+  "conflict resolution": [
+    "conflict resolution",
+    "conflictresolution"
+  ],
+  "efficiency": [
+    "efficiency"
+  ],
+  "business strategy": [
+    "business strategy",
+    "businessstrategy"
+  ],
+  "software design": [
+    "software design",
+    "softwaredesign"
+  ],
+  "flink": [
+    "flink"
+  ],
+  "clinical laboratory science": [
+    "clinical laboratory science",
+    "clinicallaboratoryscience"
+  ],
+  "reliability": [
+    "reliability"
+  ],
+  "ability to work independently": [
+    "ability to work independently",
+    "abilitytoworkindependently"
+  ],
+  "torch": [
+    "torch"
+  ],
+  "aws solution architect professional": [
+    "aws solution architect professional",
+    "awssolutionarchitectprofessional"
+  ],
+  "computer skills": [
+    "computer skills",
+    "computerskills"
+  ],
+  "nycbased": [
+    "nycbased"
+  ],
+  "lean": [
+    "lean"
+  ],
+  "medical laboratory scientist": [
+    "medical laboratory scientist",
+    "medicallaboratoryscientist"
+  ],
+  "business administration": [
+    "business administration",
+    "businessadministration"
+  ],
+  "equity": [
+    "equity"
+  ],
+  "cd pipelines": [
+    "cd pipelines",
+    "cdpipelines"
+  ],
+  "tcp": [
+    "tcp"
+  ],
+  "full stack systems": [
+    "full stack systems",
+    "fullstacksystems"
+  ],
+  "selfstarter": [
+    "selfstarter"
+  ],
+  "continuous delivery": [
+    "continuous delivery",
+    "continuousdelivery"
+  ],
+  "crm": [
+    "crm"
+  ],
+  "azure synapse": [
+    "azure synapse",
+    "azuresynapse"
+  ],
+  "business intelligence (bi": [
+    "business intelligence (bi",
+    "businessintelligence(bi"
+  ],
+  "data products": [
+    "data products",
+    "dataproducts"
+  ],
+  "model development": [
+    "model development",
+    "modeldevelopment"
+  ],
+  "data retrieval": [
+    "data retrieval",
+    "dataretrieval"
+  ],
+  "hvac": [
+    "hvac"
+  ],
+  "aws solution architect associate": [
+    "aws solution architect associate",
+    "awssolutionarchitectassociate"
+  ],
+  "cyber security": [
+    "cyber security",
+    "cybersecurity"
+  ],
+  "aws glue": [
+    "aws glue",
+    "awsglue"
+  ],
+  "classification": [
+    "classification"
+  ],
+  "storm": [
+    "storm"
+  ],
+  "us citizenship": [
+    "us citizenship",
+    "uscitizenship"
+  ],
+  "data requirements": [
+    "data requirements",
+    "datarequirements"
+  ],
+  "pivot tables": [
+    "pivot tables",
+    "pivottables"
+  ],
+  "integrity": [
+    "integrity"
+  ],
+  "qlik": [
+    "qlik"
+  ],
+  "bachelor's degree in computer science": [
+    "bachelor's degree in computer science",
+    "bachelor'sdegreeincomputerscience"
+  ],
+  "css": [
+    "css"
+  ],
+  "cloud infrastructure": [
+    "cloud infrastructure",
+    "cloudinfrastructure"
+  ],
+  "rds": [
+    "rds"
+  ],
+  "azure data lake": [
+    "azure data lake",
+    "azuredatalake"
+  ],
+  "anomaly detection": [
+    "anomaly detection",
+    "anomalydetection"
+  ],
+  "sparql": [
+    "sparql"
+  ],
+  "aws developer associate": [
+    "aws developer associate",
+    "awsdeveloperassociate"
+  ],
+  "aws security specialty": [
+    "aws security specialty",
+    "awssecurityspecialty"
+  ],
+  "trend analysis": [
+    "trend analysis",
+    "trendanalysis"
+  ],
+  "professionalism": [
+    "professionalism"
+  ],
+  "standards": [
+    "standards"
+  ],
+  "helm": [
+    "helm"
+  ],
+  "data curation": [
+    "data curation",
+    "datacuration"
+  ],
+  "storage": [
+    "storage"
+  ],
+  "datadriven insights": [
+    "datadriven insights",
+    "datadriveninsights"
+  ],
+  "project planning": [
+    "project planning",
+    "projectplanning"
+  ],
+  "vba": [
+    "vba"
+  ],
+  "financial reporting": [
+    "financial reporting",
+    "financialreporting"
+  ],
+  "kinesis": [
+    "kinesis"
+  ],
+  "avro": [
+    "avro"
+  ],
+  "strong communication skills": [
+    "strong communication skills",
+    "strongcommunicationskills"
+  ],
+  "bioinformatics": [
+    "bioinformatics"
+  ],
+  "ontology": [
+    "ontology"
+  ],
+  "speech processing": [
+    "speech processing",
+    "speechprocessing"
+  ],
+  "construction": [
+    "construction"
+  ],
+  "large language models": [
+    "large language models",
+    "largelanguagemodels"
+  ],
+  "data storytelling": [
+    "data storytelling",
+    "datastorytelling"
+  ],
+  "matplotlib": [
+    "matplotlib"
+  ],
+  "talend": [
+    "talend"
+  ],
+  "system administration": [
+    "system administration",
+    "systemadministration"
+  ],
+  "integration": [
+    "integration"
+  ],
+  "data exploration": [
+    "data exploration",
+    "dataexploration"
+  ],
+  "phd": [
+    "phd"
+  ],
+  "cabling": [
+    "cabling"
+  ],
+  "passion for vision": [
+    "passion for vision",
+    "passionforvision"
+  ],
+  "motivation": [
+    "motivation"
+  ],
+  "data solutions": [
+    "data solutions",
+    "datasolutions"
+  ],
+  "presentations": [
+    "presentations"
+  ],
+  "infrastructure": [
+    "infrastructure"
+  ],
+  "ms access": [
+    "ms access",
+    "msaccess"
+  ],
+  "teaching": [
+    "teaching"
+  ],
+  "supervised learning": [
+    "supervised learning",
+    "supervisedlearning"
+  ],
+  "microsoft access": [
+    "microsoft access",
+    "microsoftaccess"
+  ],
+  "data pipeline": [
+    "data pipeline",
+    "datapipeline"
+  ],
+  "azure sql": [
+    "azure sql",
+    "azuresql"
+  ],
+  "prototyping": [
+    "prototyping"
+  ],
+  "biostatistics": [
+    "biostatistics"
+  ],
+  "validation": [
+    "validation"
+  ],
+  "data retention": [
+    "data retention",
+    "dataretention"
+  ],
+  "unstructured data": [
+    "unstructured data",
+    "unstructureddata"
+  ],
+  "networks": [
+    "networks"
+  ],
+  "proficiency testing": [
+    "proficiency testing",
+    "proficiencytesting"
+  ],
+  "openapi": [
+    "openapi"
+  ],
+  "database": [
+    "database"
+  ],
+  "data ethics": [
+    "data ethics",
+    "dataethics"
+  ],
+  "performance management": [
+    "performance management",
+    "performancemanagement"
+  ],
+  "data center": [
+    "data center",
+    "datacenter"
+  ],
+  "stata": [
+    "stata"
+  ],
+  "rdf": [
+    "rdf"
+  ],
+  "audio classification": [
+    "audio classification",
+    "audioclassification"
+  ],
+  "lifting": [
+    "lifting"
+  ],
+  "splunk": [
+    "splunk"
+  ],
+  "writing": [
+    "writing"
+  ],
+  "synapse": [
+    "synapse"
+  ],
+  "paid holidays": [
+    "paid holidays",
+    "paidholidays"
+  ],
+  "financial workflows": [
+    "financial workflows",
+    "financialworkflows"
+  ],
+  "biology": [
+    "biology"
+  ],
+  "fda approvals": [
+    "fda approvals",
+    "fdaapprovals"
+  ],
+  "redis": [
+    "redis"
+  ],
+  "governance": [
+    "governance"
+  ],
+  "report generation": [
+    "report generation",
+    "reportgeneration"
+  ],
+  "bi tools": [
+    "bi tools",
+    "bitools"
+  ],
+  "applied mathematics": [
+    "applied mathematics",
+    "appliedmathematics"
+  ],
+  "dental": [
+    "dental"
+  ],
+  "experimental design": [
+    "experimental design",
+    "experimentaldesign"
+  ],
+  "manufacturing": [
+    "manufacturing"
+  ],
+  "qlikview": [
+    "qlikview"
+  ],
+  "privacy": [
+    "privacy"
+  ],
+  "accountability": [
+    "accountability"
+  ],
+  "laboratory testing": [
+    "laboratory testing",
+    "laboratorytesting"
+  ],
+  "banking": [
+    "banking"
+  ],
+  "api": [
+    "api"
+  ],
+  "react": [
+    "react"
+  ],
+  "procedures": [
+    "procedures"
+  ],
+  "servicenow": [
+    "servicenow"
+  ],
+  "data representation": [
+    "data representation",
+    "datarepresentation"
+  ],
+  "statistical software": [
+    "statistical software",
+    "statisticalsoftware"
+  ],
+  "objectoriented programming": [
+    "objectoriented programming",
+    "objectorientedprogramming"
+  ],
+  "mentorship": [
+    "mentorship"
+  ],
+  "oozie": [
+    "oozie"
+  ],
+  "high availability": [
+    "high availability",
+    "highavailability"
+  ],
+  "robotics": [
+    "robotics"
+  ],
+  "ability to meet deadlines": [
+    "ability to meet deadlines",
+    "abilitytomeetdeadlines"
+  ],
+  "schema design": [
+    "schema design",
+    "schemadesign"
+  ],
+  "iaas": [
+    "iaas"
+  ],
+  "athena": [
+    "athena"
+  ],
+  "automated testing": [
+    "automated testing",
+    "automatedtesting"
+  ],
+  "strong work ethic": [
+    "strong work ethic",
+    "strongworkethic"
+  ],
+  "machine learning (ml": [
+    "machine learning (ml",
+    "machinelearning(ml"
+  ],
+  "equipment maintenance": [
+    "equipment maintenance",
+    "equipmentmaintenance"
+  ],
+  "problem solving skills": [
+    "problem solving skills",
+    "problemsolvingskills"
+  ],
+  "time management skills": [
+    "time management skills",
+    "timemanagementskills"
+  ],
+  "team building": [
+    "team building",
+    "teambuilding"
+  ],
+  "cloud security": [
+    "cloud security",
+    "cloudsecurity"
+  ],
+  "technical documentation": [
+    "technical documentation",
+    "technicaldocumentation"
+  ],
+  "metrics": [
+    "metrics"
+  ],
+  "causal inference": [
+    "causal inference",
+    "causalinference"
+  ],
+  "commissioning": [
+    "commissioning"
+  ],
+  "datadriven decisionmaking": [
+    "datadriven decisionmaking",
+    "datadrivendecisionmaking"
+  ],
+  "installation": [
+    "installation"
+  ],
+  "data catalog": [
+    "data catalog",
+    "datacatalog"
+  ],
+  "hdfs": [
+    "hdfs"
+  ],
+  "data engineer": [
+    "data engineer",
+    "dataengineer"
+  ],
+  "bitbucket": [
+    "bitbucket"
+  ],
+  "security clearance": [
+    "security clearance",
+    "securityclearance"
+  ],
+  "frameworks": [
+    "frameworks"
+  ],
+  "clinical research": [
+    "clinical research",
+    "clinicalresearch"
+  ],
+  "data dictionaries": [
+    "data dictionaries",
+    "datadictionaries"
+  ],
+  "record keeping": [
+    "record keeping",
+    "recordkeeping"
+  ],
+  "curiosity": [
+    "curiosity"
+  ],
+  "procurement": [
+    "procurement"
+  ],
+  "it": [
+    "it"
+  ],
+  "backup and recovery": [
+    "backup and recovery",
+    "backupandrecovery"
+  ],
+  "microstrategy": [
+    "microstrategy"
+  ],
+  "ruby": [
+    "ruby"
+  ],
+  "perl": [
+    "perl"
+  ],
+  "configuration": [
+    "configuration"
+  ],
+  "ccpa": [
+    "ccpa"
+  ],
+  "phlebotomy": [
+    "phlebotomy"
+  ],
+  "web proxy": [
+    "web proxy",
+    "webproxy"
+  ],
+  "machine learning algorithms": [
+    "machine learning algorithms",
+    "machinelearningalgorithms"
+  ],
+  "technical support": [
+    "technical support",
+    "technicalsupport"
+  ],
+  "presto": [
+    "presto"
+  ],
+  "hardware": [
+    "hardware"
+  ],
+  "artificial intelligence (ai": [
+    "artificial intelligence (ai",
+    "artificialintelligence(ai"
+  ],
+  "ms office suite": [
+    "ms office suite",
+    "msofficesuite"
+  ],
+  "public health": [
+    "public health",
+    "publichealth"
+  ],
+  "data enrichment": [
+    "data enrichment",
+    "dataenrichment"
+  ],
+  "orchestration": [
+    "orchestration"
+  ],
+  "structured data": [
+    "structured data",
+    "structureddata"
+  ],
+  "email": [
+    "email"
+  ],
+  "erp": [
+    "erp"
+  ],
+  "integration testing": [
+    "integration testing",
+    "integrationtesting"
+  ],
+  "performance monitoring": [
+    "performance monitoring",
+    "performancemonitoring"
+  ],
+  "dimensional data modeling": [
+    "dimensional data modeling",
+    "dimensionaldatamodeling"
+  ],
+  "evaluation": [
+    "evaluation"
+  ],
+  "transformers": [
+    "transformers"
+  ],
+  "standard operating procedures": [
+    "standard operating procedures",
+    "standardoperatingprocedures"
+  ],
+  "dax": [
+    "dax"
+  ],
+  "unsupervised learning": [
+    "unsupervised learning",
+    "unsupervisedlearning"
+  ],
+  "cognos": [
+    "cognos"
+  ],
+  "database maintenance": [
+    "database maintenance",
+    "databasemaintenance"
+  ],
+  "storytelling": [
+    "storytelling"
+  ],
+  "infrastructure as code": [
+    "infrastructure as code",
+    "infrastructureascode"
+  ],
+  "supervision": [
+    "supervision"
+  ],
+  "data quality control": [
+    "data quality control",
+    "dataqualitycontrol"
+  ],
+  "cloud architecture": [
+    "cloud architecture",
+    "cloudarchitecture"
+  ],
+  "data center construction": [
+    "data center construction",
+    "datacenterconstruction"
+  ],
+  "delta lake": [
+    "delta lake",
+    "deltalake"
+  ],
+  "outlook": [
+    "outlook"
+  ],
+  "neptune": [
+    "neptune"
+  ],
+  "amt": [
+    "amt"
+  ],
+  "owl": [
+    "owl"
+  ],
+  "data completeness": [
+    "data completeness",
+    "datacompleteness"
+  ],
+  "marketing analytics": [
+    "marketing analytics",
+    "marketinganalytics"
+  ],
+  "continuous deployment": [
+    "continuous deployment",
+    "continuousdeployment"
+  ],
+  "coordination": [
+    "coordination"
+  ],
+  "ability to work under pressure": [
+    "ability to work under pressure",
+    "abilitytoworkunderpressure"
+  ],
+  "ms sql server": [
+    "ms sql server",
+    "mssqlserver"
+  ],
+  "simulation": [
+    "simulation"
+  ],
+  "collibra": [
+    "collibra"
+  ],
+  "autocad": [
+    "autocad"
+  ],
+  "mlt": [
+    "mlt"
+  ],
+  "urinalysis": [
+    "urinalysis"
+  ],
+  "skos": [
+    "skos"
+  ],
+  "nosql implementation": [
+    "nosql implementation",
+    "nosqlimplementation"
+  ],
+  "dashboard development": [
+    "dashboard development",
+    "dashboarddevelopment"
+  ],
+  "data reconciliation": [
+    "data reconciliation",
+    "datareconciliation"
+  ],
+  "effective communication": [
+    "effective communication",
+    "effectivecommunication"
+  ],
+  "spreadsheets": [
+    "spreadsheets"
+  ],
+  "data flows": [
+    "data flows",
+    "dataflows"
+  ],
+  "feedback": [
+    "feedback"
+  ],
+  "grafana": [
+    "grafana"
+  ],
+  "secret clearance": [
+    "secret clearance",
+    "secretclearance"
+  ],
+  "data sources": [
+    "data sources",
+    "datasources"
+  ],
+  "management information systems": [
+    "management information systems",
+    "managementinformationsystems"
+  ],
+  "ip": [
+    "ip"
+  ],
+  "clia": [
+    "clia"
+  ],
+  "rdfs": [
+    "rdfs"
+  ],
+  "topquadrant": [
+    "topquadrant"
+  ],
+  "stardog": [
+    "stardog"
+  ],
+  "data.world": [
+    "data.world",
+    "dataworld"
+  ],
+  "dataops": [
+    "dataops"
+  ],
+  "writing skills": [
+    "writing skills",
+    "writingskills"
+  ],
+  "erwin": [
+    "erwin"
+  ],
+  "aws rds": [
+    "aws rds",
+    "awsrds"
+  ],
+  "qualitative analysis": [
+    "qualitative analysis",
+    "qualitativeanalysis"
+  ],
+  "benefits": [
+    "benefits"
+  ],
+  "visibility": [
+    "visibility"
+  ],
+  "prot\u00e9g\u00e9": [
+    "prot\u00e9g\u00e9"
+  ],
+  "poolparty": [
+    "poolparty"
+  ],
+  "anzograph": [
+    "anzograph"
+  ],
+  "waterfall": [
+    "waterfall"
+  ],
+  "unix shell scripting": [
+    "unix shell scripting",
+    "unixshellscripting"
+  ],
+  "data replication": [
+    "data replication",
+    "datareplication"
+  ],
+  "instrumentation": [
+    "instrumentation"
+  ],
+  "incident management": [
+    "incident management",
+    "incidentmanagement"
+  ],
+  "data dictionary": [
+    "data dictionary",
+    "datadictionary"
+  ],
+  "software development life cycle": [
+    "software development life cycle",
+    "softwaredevelopmentlifecycle"
+  ],
+  "sparkstreaming": [
+    "sparkstreaming"
+  ],
+  "sql queries": [
+    "sql queries",
+    "sqlqueries"
+  ],
+  "medical": [
+    "medical"
+  ],
+  "etl pipeline": [
+    "etl pipeline",
+    "etlpipeline"
+  ],
+  "u.s. citizenship": [
+    "u.s. citizenship",
+    "u.s.citizenship",
+    "us citizenship"
+  ],
+  "angular js": [
+    "angular js",
+    "angularjs"
+  ],
+  "systems administration": [
+    "systems administration",
+    "systemsadministration"
+  ],
+  "support": [
+    "support"
+  ],
+  "business intelligence tools": [
+    "business intelligence tools",
+    "businessintelligencetools"
+  ],
+  "capacity planning": [
+    "capacity planning",
+    "capacityplanning"
+  ],
+  "education": [
+    "education"
+  ],
+  "firewalls": [
+    "firewalls"
+  ],
+  "six sigma": [
+    "six sigma",
+    "sixsigma"
+  ],
+  "data sharing": [
+    "data sharing",
+    "datasharing"
+  ],
+  "supply chain": [
+    "supply chain",
+    "supplychain"
+  ],
+  "project management skills": [
+    "project management skills",
+    "projectmanagementskills"
+  ],
+  "algorithm selection": [
+    "algorithm selection",
+    "algorithmselection"
+  ],
+  "data consistency": [
+    "data consistency",
+    "dataconsistency"
+  ],
+  "reporting tools": [
+    "reporting tools",
+    "reportingtools"
+  ],
+  "professional development": [
+    "professional development",
+    "professionaldevelopment"
+  ],
+  "rest": [
+    "rest"
+  ],
+  "industry trends": [
+    "industry trends",
+    "industrytrends"
+  ],
+  "algorithm development": [
+    "algorithm development",
+    "algorithmdevelopment"
+  ],
+  "xgboost": [
+    "xgboost"
+  ],
+  "pair programming": [
+    "pair programming",
+    "pairprogramming"
+  ],
+  "datadriven solutions": [
+    "datadriven solutions",
+    "datadrivensolutions"
+  ],
+  "wandb": [
+    "wandb"
+  ],
+  "problem resolution": [
+    "problem resolution",
+    "problemresolution"
+  ],
+  "bi": [
+    "bi"
+  ],
+  "itil": [
+    "itil"
+  ],
+  "software testing": [
+    "software testing",
+    "softwaretesting"
+  ],
+  "systems analysis": [
+    "systems analysis",
+    "systemsanalysis"
+  ],
+  "kubeflow": [
+    "kubeflow"
+  ],
+  "math": [
+    "math"
+  ],
+  "data discovery": [
+    "data discovery",
+    "datadiscovery"
+  ],
+  "sagemaker": [
+    "sagemaker"
+  ],
+  "market research": [
+    "market research",
+    "marketresearch"
+  ],
+  "research skills": [
+    "research skills",
+    "researchskills"
+  ],
+  "data": [
+    "data"
+  ],
+  "incident response": [
+    "incident response",
+    "incidentresponse"
+  ],
+  "power automate": [
+    "power automate",
+    "powerautomate"
+  ],
+  "execution": [
+    "execution"
+  ],
+  "net": [
+    "net"
+  ],
+  "equal employment opportunity": [
+    "equal employment opportunity",
+    "equalemploymentopportunity"
+  ],
+  "datastage": [
+    "datastage"
+  ],
+  "macros": [
+    "macros"
+  ],
+  "data scientist": [
+    "data scientist",
+    "datascientist"
+  ],
+  "bsa": [
+    "bsa"
+  ],
+  "data model": [
+    "data model",
+    "datamodel"
+  ],
+  "logistics": [
+    "logistics"
+  ],
+  "network security": [
+    "network security",
+    "networksecurity"
+  ],
+  "model monitoring": [
+    "model monitoring",
+    "modelmonitoring"
+  ],
+  "time series analysis": [
+    "time series analysis",
+    "timeseriesanalysis"
+  ],
+  "agile frameworks": [
+    "agile frameworks",
+    "agileframeworks"
+  ],
+  "url filtering": [
+    "url filtering",
+    "urlfiltering"
+  ],
+  "visualization tools": [
+    "visualization tools",
+    "visualizationtools"
+  ],
+  "fraud detection": [
+    "fraud detection",
+    "frauddetection"
+  ],
+  "python3": [
+    "python3"
+  ],
+  "data apis": [
+    "data apis",
+    "dataapis"
+  ],
+  "performance analysis": [
+    "performance analysis",
+    "performanceanalysis"
+  ],
+  "epidemiology": [
+    "epidemiology"
+  ],
+  "mba": [
+    "mba"
+  ],
+  "api development": [
+    "api development",
+    "apidevelopment"
+  ],
+  "scripting languages": [
+    "scripting languages",
+    "scriptinglanguages"
+  ],
+  "ml systems": [
+    "ml systems",
+    "mlsystems"
+  ],
+  "azure synapse analytics": [
+    "azure synapse analytics",
+    "azuresynapseanalytics"
+  ],
+  "data organization": [
+    "data organization",
+    "dataorganization"
+  ],
+  "data recovery": [
+    "data recovery",
+    "datarecovery"
+  ],
+  "dashboarding": [
+    "dashboarding"
+  ],
+  "aws s3": [
+    "aws s3",
+    "awss3"
+  ],
+  "data mesh": [
+    "data mesh",
+    "datamesh"
+  ],
+  "productivity": [
+    "productivity"
+  ],
+  "life sciences": [
+    "life sciences",
+    "lifesciences"
+  ],
+  "data communication": [
+    "data communication",
+    "datacommunication"
+  ],
+  "electrical systems": [
+    "electrical systems",
+    "electricalsystems"
+  ],
+  "sqs": [
+    "sqs"
+  ],
+  "financial modeling": [
+    "financial modeling",
+    "financialmodeling"
+  ],
+  "data platform": [
+    "data platform",
+    "dataplatform"
+  ],
+  "electrical": [
+    "electrical"
+  ],
+  "erp systems": [
+    "erp systems",
+    "erpsystems"
+  ],
+  "data insights": [
+    "data insights",
+    "datainsights"
+  ],
+  "supply chain management": [
+    "supply chain management",
+    "supplychainmanagement"
+  ],
+  "data optimization": [
+    "data optimization",
+    "dataoptimization"
+  ],
+  "triggers": [
+    "triggers"
+  ],
+  "aws services": [
+    "aws services",
+    "awsservices"
+  ],
+  "data aggregation": [
+    "data aggregation",
+    "dataaggregation"
+  ],
+  "system integration": [
+    "system integration",
+    "systemintegration"
+  ],
+  "logistic regression": [
+    "logistic regression",
+    "logisticregression"
+  ],
+  "regulatory": [
+    "regulatory"
+  ],
+  "auditing": [
+    "auditing"
+  ],
+  "arcgis": [
+    "arcgis"
+  ],
+  "ged": [
+    "ged"
+  ],
+  "associate's degree": [
+    "associate's degree",
+    "associate'sdegree"
+  ],
+  "laboratory equipment": [
+    "laboratory equipment",
+    "laboratoryequipment"
+  ],
+  "symantec data loss prevention (dlp": [
+    "symantec data loss prevention (dlp",
+    "symantecdatalossprevention(dlp"
+  ],
+  "contract management": [
+    "contract management",
+    "contractmanagement"
+  ],
+  "enterprise architecture": [
+    "enterprise architecture",
+    "enterprisearchitecture"
+  ],
+  "written communication skills": [
+    "written communication skills",
+    "writtencommunicationskills"
+  ],
+  "database performance tuning": [
+    "database performance tuning",
+    "databaseperformancetuning"
+  ],
+  "database optimization": [
+    "database optimization",
+    "databaseoptimization"
+  ],
+  "embedded systems": [
+    "embedded systems",
+    "embeddedsystems"
+  ],
+  "resource management": [
+    "resource management",
+    "resourcemanagement"
+  ],
+  "econometrics": [
+    "econometrics"
+  ],
+  "user experience": [
+    "user experience",
+    "userexperience"
+  ],
+  "data handling": [
+    "data handling",
+    "datahandling"
+  ],
+  "query optimization": [
+    "query optimization",
+    "queryoptimization"
+  ],
+  "data documentation": [
+    "data documentation",
+    "datadocumentation"
+  ],
+  "data design": [
+    "data design",
+    "datadesign"
+  ],
+  "infection control": [
+    "infection control",
+    "infectioncontrol"
+  ],
+  "data visualizations": [
+    "data visualizations",
+    "datavisualizations"
+  ],
+  "sprint management": [
+    "sprint management",
+    "sprintmanagement"
+  ],
+  "business requirements gathering": [
+    "business requirements gathering",
+    "businessrequirementsgathering"
+  ],
+  "design patterns": [
+    "design patterns",
+    "designpatterns"
+  ],
+  "generators": [
+    "generators"
+  ],
+  "agile engineering": [
+    "agile engineering",
+    "agileengineering"
+  ],
+  "data normalization": [
+    "data normalization",
+    "datanormalization"
+  ],
+  "database technologies": [
+    "database technologies",
+    "databasetechnologies"
+  ],
+  "standing": [
+    "standing"
+  ],
+  "bachelors degree": [
+    "bachelors degree",
+    "bachelorsdegree"
+  ],
+  "shift work": [
+    "shift work",
+    "shiftwork"
+  ],
+  "digital marketing": [
+    "digital marketing",
+    "digitalmarketing"
+  ],
+  "blockchain": [
+    "blockchain"
+  ],
+  "functions": [
+    "functions"
+  ],
+  "tools": [
+    "tools"
+  ],
+  "regulations": [
+    "regulations"
+  ],
+  "logical thinking": [
+    "logical thinking",
+    "logicalthinking"
+  ],
+  "decision trees": [
+    "decision trees",
+    "decisiontrees"
+  ],
+  "data flow": [
+    "data flow",
+    "dataflow"
+  ],
+  "star schema": [
+    "star schema",
+    "starschema"
+  ],
+  "interpersonal communication": [
+    "interpersonal communication",
+    "interpersonalcommunication"
+  ],
+  "legal compliance": [
+    "legal compliance",
+    "legalcompliance"
+  ],
+  "oltp": [
+    "oltp"
+  ],
+  "dashboard creation": [
+    "dashboard creation",
+    "dashboardcreation"
+  ],
+  "customer focus": [
+    "customer focus",
+    "customerfocus"
+  ],
+  "epic clarity reporting": [
+    "epic clarity reporting",
+    "epicclarityreporting"
+  ],
+  "responsible ai": [
+    "responsible ai",
+    "responsibleai"
+  ],
+  "aws cloud": [
+    "aws cloud",
+    "awscloud"
+  ],
+  "regulatory requirements": [
+    "regulatory requirements",
+    "regulatoryrequirements"
+  ],
+  "nifi": [
+    "nifi"
+  ],
+  "aws redshift": [
+    "aws redshift",
+    "awsredshift"
+  ],
+  "agile software development": [
+    "agile software development",
+    "agilesoftwaredevelopment"
+  ],
+  "vmware": [
+    "vmware"
+  ],
+  "continuing education": [
+    "continuing education",
+    "continuingeducation"
+  ],
+  "rest api": [
+    "rest api",
+    "restapi"
+  ],
+  "ethics": [
+    "ethics"
+  ],
+  "business objects": [
+    "business objects",
+    "businessobjects"
+  ],
+  "kibana": [
+    "kibana"
+  ],
+  "olap": [
+    "olap"
+  ],
+  "endpoint security": [
+    "endpoint security",
+    "endpointsecurity"
+  ],
+  "pmp": [
+    "pmp"
+  ],
+  "science": [
+    "science"
+  ],
+  "dimensional modeling": [
+    "dimensional modeling",
+    "dimensionalmodeling"
+  ],
+  "public speaking": [
+    "public speaking",
+    "publicspeaking"
+  ],
+  "process management": [
+    "process management",
+    "processmanagement"
+  ],
+  "associate degree": [
+    "associate degree",
+    "associatedegree"
+  ],
+  "bending": [
+    "bending"
+  ],
+  "clinical laboratory": [
+    "clinical laboratory",
+    "clinicallaboratory"
+  ],
+  "cloudbased systems": [
+    "cloudbased systems",
+    "cloudbasedsystems"
+  ],
+  "semantic technology": [
+    "semantic technology",
+    "semantictechnology"
+  ],
+  "blood bank": [
+    "blood bank",
+    "bloodbank"
+  ],
+  "kpis": [
+    "kpis"
+  ],
+  "random forest": [
+    "random forest",
+    "randomforest"
+  ],
+  "performance metrics": [
+    "performance metrics",
+    "performancemetrics"
+  ],
+  "emerging technologies": [
+    "emerging technologies",
+    "emergingtechnologies"
+  ],
+  "big data platforms": [
+    "big data platforms",
+    "bigdataplatforms"
+  ],
+  "methodologies": [
+    "methodologies"
+  ],
+  "data maintenance": [
+    "data maintenance",
+    "datamaintenance"
+  ],
+  "legal": [
+    "legal"
+  ],
+  "machine learning engineering": [
+    "machine learning engineering",
+    "machinelearningengineering"
+  ],
+  "highperformance computing": [
+    "highperformance computing",
+    "highperformancecomputing"
+  ],
+  "critical thinking skills": [
+    "critical thinking skills",
+    "criticalthinkingskills"
+  ],
+  "data access": [
+    "data access",
+    "dataaccess"
+  ],
+  "ownership": [
+    "ownership"
+  ],
+  "statistical programming": [
+    "statistical programming",
+    "statisticalprogramming"
+  ],
+  "estimating": [
+    "estimating"
+  ],
+  "ability to work in a fastpaced environment": [
+    "ability to work in a fastpaced environment",
+    "abilitytoworkinafastpacedenvironment"
+  ],
+  "ba": [
+    "ba"
+  ],
+  "driver's license": [
+    "driver's license",
+    "driver'slicense"
+  ],
+  "network dlp": [
+    "network dlp",
+    "networkdlp"
+  ],
+  "learning": [
+    "learning"
+  ],
+  "google sheets": [
+    "google sheets",
+    "googlesheets"
+  ],
+  "investigation": [
+    "investigation"
+  ],
+  "agile environment": [
+    "agile environment",
+    "agileenvironment"
+  ],
+  "analytical tools": [
+    "analytical tools",
+    "analyticaltools"
+  ],
+  "laboratory procedures": [
+    "laboratory procedures",
+    "laboratoryprocedures"
+  ],
+  "r programming": [
+    "r programming",
+    "rprogramming"
+  ],
+  "data systems": [
+    "data systems",
+    "datasystems"
+  ],
+  "quality improvement": [
+    "quality improvement",
+    "qualityimprovement"
+  ],
+  "image processing": [
+    "image processing",
+    "imageprocessing"
+  ],
+  "stem": [
+    "stem"
+  ],
+  "ecommerce": [
+    "ecommerce"
+  ],
+  "information management": [
+    "information management",
+    "informationmanagement"
+  ],
+  "windows server": [
+    "windows server",
+    "windowsserver"
+  ],
+  "big query": [
+    "big query",
+    "bigquery"
+  ],
+  "business process management": [
+    "business process management",
+    "businessprocessmanagement"
+  ],
+  "database management systems": [
+    "database management systems",
+    "databasemanagementsystems"
+  ],
+  "data centers": [
+    "data centers",
+    "datacenters"
+  ],
+  "customer service skills": [
+    "customer service skills",
+    "customerserviceskills"
+  ],
+  "system analysis": [
+    "system analysis",
+    "systemanalysis"
+  ],
+  "data bricks": [
+    "data bricks",
+    "databricks"
+  ],
+  "database systems": [
+    "database systems",
+    "databasesystems"
+  ],
+  "sops": [
+    "sops"
+  ],
+  "data sets": [
+    "data sets",
+    "datasets"
+  ],
+  "organization skills": [
+    "organization skills",
+    "organizationskills"
+  ],
+  "relational database": [
+    "relational database",
+    "relationaldatabase"
+  ],
+  "microsoft outlook": [
+    "microsoft outlook",
+    "microsoftoutlook"
+  ],
+  "microsoft powerpoint": [
+    "microsoft powerpoint",
+    "microsoftpowerpoint"
+  ],
+  "holidays": [
+    "holidays"
+  ],
+  "data compilation": [
+    "data compilation",
+    "datacompilation"
+  ],
+  "epic clarity": [
+    "epic clarity",
+    "epicclarity"
+  ],
+  "compilers": [
+    "compilers"
+  ],
+  "technical communication": [
+    "technical communication",
+    "technicalcommunication"
+  ],
+  "statistical modelling": [
+    "statistical modelling",
+    "statisticalmodelling"
+  ],
+  "data factory": [
+    "data factory",
+    "datafactory"
+  ],
+  "parental leave": [
+    "parental leave",
+    "parentalleave"
+  ],
+  "team environment": [
+    "team environment",
+    "teamenvironment"
+  ],
+  "machine learning models": [
+    "machine learning models",
+    "machinelearningmodels"
+  ],
+  "django": [
+    "django"
+  ],
+  "flask": [
+    "flask"
+  ],
+  "sqoop": [
+    "sqoop"
+  ],
+  "seaborn": [
+    "seaborn"
+  ],
+  "standardization": [
+    "standardization"
+  ],
+  "medical laboratory technology": [
+    "medical laboratory technology",
+    "medicallaboratorytechnology"
+  ],
+  "english proficiency": [
+    "english proficiency",
+    "englishproficiency"
+  ],
+  "polygraph": [
+    "polygraph"
+  ],
+  "mls": [
+    "mls"
+  ],
+  "experiment tracking": [
+    "experiment tracking",
+    "experimenttracking"
+  ],
+  "etl development": [
+    "etl development",
+    "etldevelopment"
+  ],
+  "communications": [
+    "communications"
+  ],
+  "thought leadership": [
+    "thought leadership",
+    "thoughtleadership"
+  ],
+  "data literacy": [
+    "data literacy",
+    "dataliteracy"
+  ],
+  "influence": [
+    "influence"
+  ],
+  "civil engineering": [
+    "civil engineering",
+    "civilengineering"
+  ],
+  "impala": [
+    "impala"
+  ],
+  "data quality tools": [
+    "data quality tools",
+    "dataqualitytools"
+  ],
+  "audit": [
+    "audit"
+  ],
+  "test automation": [
+    "test automation",
+    "testautomation"
+  ],
+  "backup": [
+    "backup"
+  ],
+  "oracle database": [
+    "oracle database",
+    "oracledatabase"
+  ],
+  "qa": [
+    "qa"
+  ],
+  "data querying": [
+    "data querying",
+    "dataquerying"
+  ],
+  "analytical": [
+    "analytical"
+  ],
+  "compensation": [
+    "compensation"
+  ],
+  "data management tools": [
+    "data management tools",
+    "datamanagementtools"
+  ],
+  "deadlines": [
+    "deadlines"
+  ],
+  "safe": [
+    "safe"
+  ],
+  "customer engagement": [
+    "customer engagement",
+    "customerengagement"
+  ],
+  "environmental science": [
+    "environmental science",
+    "environmentalscience"
+  ],
+  "sns": [
+    "sns"
+  ],
+  "high school diploma or ged": [
+    "high school diploma or ged",
+    "highschooldiplomaorged"
+  ],
+  "pto": [
+    "pto"
+  ],
+  "multicloud environments": [
+    "multicloud environments",
+    "multicloudenvironments"
+  ],
+  "policies": [
+    "policies"
+  ],
+  "typescript": [
+    "typescript"
+  ],
+  "data streaming": [
+    "data streaming",
+    "datastreaming"
+  ],
+  "technical expertise": [
+    "technical expertise",
+    "technicalexpertise"
+  ],
+  "aws sagemaker": [
+    "aws sagemaker",
+    "awssagemaker"
+  ],
+  "web development": [
+    "web development",
+    "webdevelopment"
+  ],
+  "clinical data management": [
+    "clinical data management",
+    "clinicaldatamanagement"
+  ],
+  "business processes": [
+    "business processes",
+    "businessprocesses"
+  ],
+  "insurance": [
+    "insurance"
+  ],
+  "mvp": [
+    "mvp"
+  ],
+  "teams": [
+    "teams"
+  ],
+  "database structures": [
+    "database structures",
+    "databasestructures"
+  ],
+  "signal processing": [
+    "signal processing",
+    "signalprocessing"
+  ],
+  "certifications": [
+    "certifications"
+  ],
+  "exploratory data analysis": [
+    "exploratory data analysis",
+    "exploratorydataanalysis"
+  ],
+  "node.js": [
+    "node.js",
+    "nodejs"
+  ],
+  "data marts": [
+    "data marts",
+    "datamarts"
+  ],
+  "clinical trials": [
+    "clinical trials",
+    "clinicaltrials"
+  ],
+  "coagulation": [
+    "coagulation"
+  ],
+  "explainable ai": [
+    "explainable ai",
+    "explainableai"
+  ]
+}
