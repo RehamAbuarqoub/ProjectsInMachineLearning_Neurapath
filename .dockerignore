@@ -1,20 +1,38 @@
-# node
-frontend/node_modules
-frontend/dist
-
-# python
+########################################
+# Python environments & caches
+########################################
+venv/
+backend/venv/
 backend/.venv
 __pycache__/
 *.pyc
 *.pyo
 
-# logs & artifacts
-backend/app/logs
+########################################
+# Node modules & frontend builds
+########################################
+frontend/node_modules/
+frontend/dist/
+
+########################################
+# Logs & artifacts
+########################################
+backend/app/logs/
 *.log
 
-# vcs/ide
-.git
+########################################
+# OS / IDE / VCS files
+########################################
+.git/
 .gitignore
 .gitattributes
-.vscode
+.vscode/
 .DS_Store
+
+########################################
+# Build files to exclude
+########################################
+Dockerfile
+dist/
+logs/
+.env
