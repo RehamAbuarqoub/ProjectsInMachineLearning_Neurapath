@@ -8,10 +8,8 @@ from pathlib import Path
 import datetime as dt
 import logging
 
-# ✅ logging config (our custom setup)
 from .logging_config import configure_logging
-
-# ✅ routers
+from .config import settings
 from .routers import roles, resumes, model, services_catalog
 
 
@@ -38,16 +36,47 @@ app.add_middleware(
 BASE_DIR = Path(__file__).resolve().parent
 FRONTEND_DIST = BASE_DIR / "static"  # Docker copies React build here
 
-# If built frontend exists, serve it as a SPA at "/"
+# If built frontend exists, serve it under "/static"
 if FRONTEND_DIST.exists():
-    app.mount("/", StaticFiles(directory=FRONTEND_DIST, html=True), name="static")
-    logger.info("Mounted static frontend at '/': %s", FRONTEND_DIST)
+    app.mount("/static", StaticFiles(directory=FRONTEND_DIST, html=True), name="static")
+    logger.info("Mounted static frontend at '/static': %s", FRONTEND_DIST)
 
 
 # ---------- Lifecycle ----------
 @app.on_event("startup")
 async def on_startup():
-    logger.info("FastAPI startup complete. Logging configured and app ready.")  # INFO #1
+    """
+    Startup hook: logs key experiment + DB config values
+    using environment-based settings (for Secrets Management rubric).
+    """
+    # INFO #1 – high-level startup log
+    logger.info("FastAPI startup complete. Logging configured and app ready.")
+
+    # Log experiment / ML hyperparameters (SAFE – no passwords)
+    logger.info(
+        (
+            "Experiment: %s (version=%s) | epochs=%d | "
+            "expected_acc=%.3f | lr=%.6f | max_depth=%d | n_estimators=%d"
+        ),
+        settings.EXPERIMENT_NAME,
+        settings.EXPERIMENT_VERSION,
+        settings.MODEL_NUM_EPOCHS,
+        settings.MODEL_EXPECTED_ACCURACY,
+        settings.MODEL_LEARNING_RATE,
+        settings.MODEL_MAX_DEPTH,
+        settings.MODEL_N_ESTIMATORS,
+    )
+
+    # Log EDA features coming from env var
+    logger.info("EDA feature names: %s", settings.EDA_FEATURE_NAMES)
+
+    # ⚠️ Never log DB_PASSWORD
+    logger.info(
+        "DB config loaded (user=%s, host=%s, port=%d, password=HIDDEN)",
+        settings.DB_USERNAME,
+        settings.DB_HOST,
+        settings.DB_PORT,
+    )
 
 
 # ---------- Health & root ----------
@@ -63,7 +92,8 @@ def root():
     if not FRONTEND_DIST.exists():
         logger.info("Root requested; static not found → redirecting to /docs.")  # INFO #3
         return RedirectResponse(url="/docs")
-    # When static is mounted, index.html is served by StaticFiles
+    # When static is present, you can later serve index.html explicitly if you want.
+    # For now, just return 204 (no content).
     return Response(status_code=204)
 
 

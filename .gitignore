@@ -42,3 +42,6 @@ backend/app/storage/
 
 # Ignore JSON outputs
 backend/app/storage/*.json
+.env
+logs/
+backend/logs/
